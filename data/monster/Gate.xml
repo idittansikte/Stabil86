@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Gate" nameDescription="a gate" race="blood" experience="0" speed="0" manacost="220">
+  <health now="150000" max="100000"/>
+  <look typeex="1547" corpse="3958"/>
+  <targetchange interval="5000" chance="20"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="0"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="0"/>
+    <flag staticattack="0"/>
+    <flag runonhealth="0"/>
+    <flag skull="0"/>
+  </flags>
+  <attacks>	
+<attack name="melee" interval="2000" skill="120" attack="200"/>
+  </attacks>
+  <defenses armor="1" defense="2"/>
+	<summons maxSummons="20">
+		<summon name="demon" interval="2000" chance="10" max="8"/>
+		<summon name="hellfire fighter" interval="2000" chance="10" max="6"/>
+		<summon name="Hellhound" interval="2000" chance="10" max="6"/>
+
+  </summons>
+   <immunities>
+    <immunity invisible="0"/>
+  </immunities>
+  <loot>
+    <item id="2684" countmax="4" chance1="70000" chancemax="0"/>
+    <item id="2666" countmax="2" chance1="20000" chancemax="0"/>
+  </loot>
+</monster>

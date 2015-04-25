@@ -1,0 +1,60 @@
+<npc name="Tradesman" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="134" head="53" body="61" legs="47" feet="73" corpse="2212" addons="3"/>
+<parameters>
+<parameter key="message_greet" value="Hello |PLAYERNAME|. I got products of the highest quality. "/>
+<parameter key="message_farewell" value="Peace out, |PLAYERNAME|." />
+<parameter key="module_keywords" value="1" />
+<parameter key="keywords" value="job;offer" />
+
+<parameter key="keyword_reply1" value="Items for addons" />
+<parameter key="keyword_reply2" value="Addons, addons, addons, so overrated..." />
+
+<parameter key="module_shop" value="1" />
+<parameter key="shop_buyable" value="
+mandrake,5015,54000;
+heaven blossoms,5921,7000;
+nose ring,5804,23000;
+dragon claw,5919,100000;
+blue pieces of cloth,5912,30000;
+brown pieces of cloth,5913,30000;
+Nilsor waterskin,5939,63000;
+spirit container,5884,67000;
+sniper gloves,5875,500000;
+pieces of hell steel,5888,100000;
+pieces of draconian steel,5889,100000;
+peace of royal steel,5887,100000;
+elane crossbow,5947,10000;
+magic sulphurs,5904,15000;
+ankhs,2327,10000;
+honeycomb,5902,1000;
+soul stone,5809,20000;
+engraved crossbow,5947,55000;
+enchanted chicken wings,5891,60000;
+hell steel,5888,90000;
+chunk of crude iron,5924,80000;
+huge chunk of crude iron,5892,700000;
+draconian steel,5889,62000;
+damaged steel helmet,11422,47000;
+warriors sweat,5885,100000;
+winning lottery ticket,5958,80000;
+spools of spider silk yarn,5886,24000;
+red pieces of cloth,5911,30000;
+green pieces of cloth,5910,30000;
+water from the hydra cave,5938,80000;
+griffinclaw flower sample,5937,80000;
+Ceirons wolf tooth chain,5940,80000;
+mermaid comb,5945,100000;
+fish fins,5895,40000;
+white piece of cloth,5909,10000;
+yellow piece of cloth,5914,10000;
+simons favourite staff,6107,20000;
+dwarven beard,5900,80000;
+Deadeye Devious eye patch,6102,80000;
+Brutus Bloodbeards hat,6099,90000;
+Lethal Lissy shirt,6100,100000;
+ron the rippers sabre,6101,90000;
+tribal mask,3967,80000"/>
+
+</parameters>
+</npc>

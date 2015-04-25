@@ -1,0 +1,1662 @@
+[5/3/2013 11:35:21] /goto king
+[5/3/2013 11:35:24] /goto king
+[5/3/2013 11:35:28] /goto King
+[5/3/2013 11:35:34] /goto warrior
+[5/3/2013 11:35:38] /goto king
+[5/3/2013 11:35:50] /goto {x = 2479, y = 2513, z = 6}
+[5/3/2013 11:35:56] /goto x = 2479, y = 2513, z = 6
+[5/3/2013 11:36:6] /goto 2479, 2513, 6
+[5/3/2013 11:40:16] /goto 2479, 2513, 6
+[5/3/2013 11:46:21] /goto 2479, 2513, 6
+[5/3/2013 11:47:51] /goto 2444, 2491, 6
+[5/3/2013 11:49:21] /c gooby
+[5/3/2013 11:50:46] /c ub kenobi
+[5/3/2013 12:15:32] /storage /reload globalevents
+[5/3/2013 12:15:37] /reload globalevents
+[5/3/2013 12:16:20] /goto 2445, 2489, 6
+[5/3/2013 12:17:1] /storage 17002
+[5/3/2013 12:17:10] /storage GOD Herold 17002
+[5/3/2013 12:17:14] /storage GOD Herold, 17002
+[5/3/2013 12:17:18] /storage GOD Herold, 17002
+[5/3/2013 12:17:19] /storage GOD Herold, 17002
+[5/3/2013 12:17:21] /storage GOD Herold, 17002 1
+[5/3/2013 12:17:23] /storage GOD Herold, 17002 1
+[5/3/2013 12:17:23] /storage GOD Herold, 17002 1
+[5/3/2013 12:17:26] /storage GOD Herold, 17002, 1
+[5/3/2013 12:17:28] /storage GOD Herold, 17002, 1
+[5/3/2013 12:17:30] /storage GOD Herold, 17002, 1
+[5/3/2013 12:17:31] /storage GOD Herold, 17002 1
+[5/3/2013 12:17:34] /storage GOD Herold, 17002
+[5/3/2013 12:17:36] /storage GOD Herold, 17002
+[5/3/2013 12:18:28] /storage GOD Herold, 17002 1
+[5/3/2013 12:18:33] /storage GOD Herold, 17002
+[5/3/2013 12:18:36] /storage GOD Herold, 17002
+[5/3/2013 12:18:41] /storage GOD Herold, 17002, 2
+[5/3/2013 12:18:44] /storage GOD Herold, 17002
+[5/3/2013 12:18:50] /storage GOD Herold, 17002, 0
+[5/3/2013 12:19:38] /storage GOD Herold, 17000, 1
+[5/3/2013 12:19:42] /storage GOD Herold, 17000, 0
+[5/3/2013 12:19:48] /storage GOD Herold, 17000, -1
+[5/3/2013 12:20:22] /storage Heroes of Hummingbird, 17000
+[5/3/2013 12:20:30] /storage 17000, 1
+[5/3/2013 12:20:34] /storage 17000 
+[5/3/2013 12:20:35] /storage 17000 
+[5/3/2013 12:20:37] /storage 17000 1
+[5/3/2013 12:21:33] /storage GOD Herold, 17000, 1
+[5/3/2013 12:21:46] /storage GOD Herold, 17002, 1
+[5/3/2013 12:38:47] /reload globalevents
+[5/3/2013 12:57:20] /reload globalevets
+[5/3/2013 12:57:35] /reload globalevents
+[5/3/2013 13:1:1] /reload globalevents
+[5/3/2013 13:2:30] /reload globalevents
+[5/3/2013 13:3:30] /reload globalevents
+[5/3/2013 13:12:50] /r
+[5/3/2013 13:19:4] /reload creature events
+[5/3/2013 13:19:34] /goto gooby
+[5/3/2013 13:20:12] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:14] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:15] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:16] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:17] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:18] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:19] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:20] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:21] /addskill GOD Herold, mg
+[5/3/2013 13:20:22] /addskill GOD Herold, mg
+[5/3/2013 13:20:22] /addskill GOD Herold, mg
+[5/3/2013 13:20:22] /addskill GOD Herold, mg
+[5/3/2013 13:20:22] /addskill GOD Herold, mg
+[5/3/2013 13:20:22] /addskill GOD Herold, mg
+[5/3/2013 13:20:23] /addskill GOD Herold, mg
+[5/3/2013 13:20:23] /addskill GOD Herold, mg
+[5/3/2013 13:20:23] /addskill GOD Herold, mg
+[5/3/2013 13:20:23] /addskill GOD Herold, mg
+[5/3/2013 13:20:23] /addskill GOD Herold, mg
+[5/3/2013 13:20:23] /addskill GOD Herold, mg
+[5/3/2013 13:22:50] /reload monsters
+[5/3/2013 13:24:6] /t
+[5/3/2013 13:30:38] /m king
+[5/3/2013 13:33:43] /m king
+[5/3/2013 13:34:56] /m king
+[5/3/2013 13:35:23] /r
+[5/3/2013 13:35:49] /reload globalevents
+[5/3/2013 13:35:56] /t
+[5/3/2013 18:2:23] /t
+[5/3/2013 18:44:7] /reload creaturescript
+[5/3/2013 18:48:21] /c mother of god
+[5/3/2013 18:50:41] /reload creaturescript
+[5/3/2013 18:54:47] /reload creaturescript
+[5/3/2013 19:44:17] /reload creaturescript
+[5/3/2013 19:58:14] /reload creaturescript
+[5/3/2013 20:4:46] /reload creaturescript
+[5/3/2013 20:7:23] /reload creaturescript
+[6/3/2013 9:53:3] /t
+[6/3/2013 9:58:47] /goto ub kenobi
+[6/3/2013 9:58:54] /i vip medallion
+[6/3/2013 10:24:57] /reload talkactions
+[6/3/2013 10:54:17] /reload talkactions
+[6/3/2013 10:54:54] /reload talkactions
+[6/3/2013 10:56:19] /reload talkactions
+[6/3/2013 10:57:3] /reload talkactions
+[6/3/2013 10:58:34] /reload talkactions
+[6/3/2013 10:59:46] /reload talkactions
+[6/3/2013 11:2:58] /reload talkactions
+[6/3/2013 11:8:23] /reload talkactions
+[6/3/2013 11:13:27] /reload talkactions
+[6/3/2013 11:15:46] /reload talkactions
+[6/3/2013 11:16:37] /reload talkactions
+[6/3/2013 11:19:32] /reload talkactions
+[6/3/2013 11:23:50] /reload talkactions
+[6/3/2013 11:24:13] /reload talkactions
+[6/3/2013 16:50:54] /reload talkactions
+[6/3/2013 16:52:21] /reload talkactions
+[6/3/2013 16:53:33] /reload talkactions
+[6/3/2013 16:54:59] /reload talkactions
+[6/3/2013 16:57:4] /reload talkactions
+[6/3/2013 16:57:43] /reload talkactions
+[6/3/2013 16:59:21] /reload talkactions
+[6/3/2013 17:2:53] /reload talkactions
+[6/3/2013 17:4:26] /reload talkactions
+[6/3/2013 17:5:3] /reload talkactions
+[6/3/2013 17:6:53] /reload talkactions
+[6/3/2013 17:7:41] /reload talkactions
+[6/3/2013 17:9:44] /reload talkactions
+[6/3/2013 17:14:8] /reload talkactions
+[6/3/2013 17:14:15] /reload talkactions
+[6/3/2013 17:15:33] /reload talkactions
+[6/3/2013 17:16:51] /reload talkactions
+[6/3/2013 17:22:1] /reload talkactions
+[6/3/2013 17:22:4] /reload talkactions
+[6/3/2013 17:24:4] /reload talkactions
+[6/3/2013 17:24:40] /reload talkactions
+[6/3/2013 17:26:52] /reload talkactions
+[6/3/2013 17:32:4] /reload talkactions
+[6/3/2013 17:40:6] /reload talkactions
+[6/3/2013 17:51:48] /reload talkactions
+[6/3/2013 17:51:52] /reload talkactions
+[6/3/2013 17:56:33] /reload talkactions
+[6/3/2013 18:4:18] /reload talkactions
+[6/3/2013 18:5:50] /reload talkactions
+[6/3/2013 18:6:58] /reload talkactions
+[6/3/2013 18:11:50] /reload talkactions
+[6/3/2013 18:16:30] /reload talkactions
+[6/3/2013 18:18:34] /reload talkactions
+[6/3/2013 18:19:24] /reload talkactions
+[6/3/2013 18:19:47] /reload talkactions
+[6/3/2013 18:24:0] /reload talkactions
+[6/3/2013 18:26:49] /reload talkactions
+[6/3/2013 18:27:32] /reload talkactions
+[6/3/2013 18:30:10] /reload talkactions
+[6/3/2013 19:38:38] /reload talkactions
+[6/3/2013 19:39:4] /reload talkactions
+[6/3/2013 19:39:58] /reload talkactions
+[6/3/2013 19:41:6] /reload talkactions
+[6/3/2013 19:41:13] /reload talkactions
+[6/3/2013 19:44:26] /reload talkactions
+[6/3/2013 19:44:48] /reload talkactions
+[6/3/2013 19:44:50] /reload talkactions
+[6/3/2013 19:45:33] /reload talkactions
+[6/3/2013 19:45:36] /reload talkactions
+[6/3/2013 19:45:50] /reload talkactions
+[6/3/2013 20:5:56] /reload talkactions
+[6/3/2013 20:20:18] /reload talkactions
+[6/3/2013 20:21:3] /reload talkactions
+[6/3/2013 20:21:8] /reload talkactions
+[6/3/2013 20:22:15] /reload talkactions
+[6/3/2013 20:22:55] /reload talkactions
+[6/3/2013 20:29:17] /reload talkactions
+[6/3/2013 20:30:36] /reload talkactions
+[6/3/2013 20:30:57] /reload talkactions
+[6/3/2013 20:41:56] /reload talkactions
+[6/3/2013 20:42:53] /reload talkactions
+[6/3/2013 20:43:35] /reload talkactions
+[6/3/2013 20:44:0] /reload talkactions
+[6/3/2013 20:45:19] /reload talkactions
+[6/3/2013 20:47:44] /reload talkactions
+[6/3/2013 21:12:58] /reload talkactions
+[6/3/2013 21:21:28] /reload talkactions
+[6/3/2013 21:53:59] /i 6300
+[6/3/2013 22:40:3] /i infernal blot
+[6/3/2013 22:40:8] /i infernal bolt
+[6/3/2013 22:41:54] /m demon
+[6/3/2013 22:42:23] /addskill GOD Herold, dist
+[6/3/2013 22:42:25] /addskill GOD Herold, dist
+[6/3/2013 22:42:27] /addskill GOD Herold, dist
+[6/3/2013 22:42:29] /addskill GOD Herold, dist
+[6/3/2013 22:42:30] /addskill GOD Herold, dist
+[6/3/2013 22:42:30] /addskill GOD Herold, dist
+[6/3/2013 22:42:31] /addskill GOD Herold, dist
+[6/3/2013 22:42:31] /addskill GOD Herold, dist
+[6/3/2013 22:42:32] /addskill GOD Herold, dist
+[6/3/2013 22:42:32] /addskill GOD Herold, dist
+[6/3/2013 22:42:33] /addskill GOD Herold, dist
+[6/3/2013 22:42:33] /addskill GOD Herold, dist
+[6/3/2013 22:42:33] /addskill GOD Herold, dist
+[6/3/2013 22:42:34] /addskill GOD Herold, dist
+[6/3/2013 22:42:34] /addskill GOD Herold, dist
+[6/3/2013 22:42:34] /addskill GOD Herold, dist
+[6/3/2013 22:42:35] /addskill GOD Herold, dist
+[6/3/2013 22:42:35] /addskill GOD Herold, dist
+[6/3/2013 22:42:36] /addskill GOD Herold, dist
+[6/3/2013 22:42:36] /addskill GOD Herold, dist
+[6/3/2013 22:42:36] /addskill GOD Herold, dist
+[6/3/2013 22:42:37] /addskill GOD Herold, dist
+[6/3/2013 22:42:37] /addskill GOD Herold, dist
+[6/3/2013 22:42:39] /addskill GOD Herold, dist
+[6/3/2013 22:42:39] /addskill GOD Herold, dist
+[6/3/2013 22:42:40] /addskill GOD Herold, dist
+[6/3/2013 22:42:40] /addskill GOD Herold, dist
+[6/3/2013 22:42:40] /addskill GOD Herold, dist
+[6/3/2013 22:42:41] /addskill GOD Herold, dist
+[6/3/2013 22:42:46] /addskill GOD Herold, dist
+[6/3/2013 22:43:0] /i 7673
+[6/3/2013 22:43:5] /addskill GOD Herold, dist
+[6/3/2013 22:43:6] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:7] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:8] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:9] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:10] /addskill GOD Herold, dist
+[6/3/2013 22:43:13] /addskill GOD Herold, dist
+[6/3/2013 22:43:19] /addskill GOD Herold, dist
+[6/3/2013 22:43:21] /addskill GOD Herold, dist
+[6/3/2013 22:43:22] /addskill GOD Herold, dist
+[6/3/2013 22:43:23] /addskill GOD Herold, dist
+[6/3/2013 22:43:23] /i 7673
+[6/3/2013 22:43:24] /addskill GOD Herold, dist
+[6/3/2013 22:43:25] /addskill GOD Herold, dist
+[6/3/2013 22:43:25] /addskill GOD Herold, dist
+[6/3/2013 22:43:26] /addskill GOD Herold, dist
+[6/3/2013 22:43:26] /addskill GOD Herold, dist
+[6/3/2013 22:43:27] /addskill GOD Herold, dist
+[6/3/2013 22:43:27] /addskill GOD Herold, dist
+[6/3/2013 22:43:27] /addskill GOD Herold, dist
+[6/3/2013 22:43:27] /addskill GOD Herold, dist
+[6/3/2013 22:43:28] /addskill GOD Herold, dist
+[6/3/2013 22:43:28] /addskill GOD Herold, dist
+[6/3/2013 22:43:33] /addskill GOD Herold, dist
+[6/3/2013 22:43:33] /addskill GOD Herold, dist
+[6/3/2013 22:43:34] /addskill GOD Herold, dist
+[6/3/2013 22:43:34] /addskill GOD Herold, dist
+[6/3/2013 22:43:40] /addskill GOD Herold, dist
+[6/3/2013 22:43:40] /addskill GOD Herold, dist
+[6/3/2013 22:44:11] /addskill GOD Herold, dist
+[6/3/2013 22:44:12] /addskill GOD Herold, dist
+[6/3/2013 22:44:13] /addskill GOD Herold, dist
+[6/3/2013 22:44:13] /addskill GOD Herold, dist
+[6/3/2013 22:44:17] /addskill GOD Herold, dist
+[6/3/2013 22:44:19] /i 7673
+[6/3/2013 22:44:20] /i 7673
+[6/3/2013 22:44:25] /addskill GOD Herold, dist
+[6/3/2013 22:44:26] /addskill GOD Herold, dist
+[6/3/2013 22:44:27] /addskill GOD Herold, dist
+[6/3/2013 22:44:27] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:28] /addskill GOD Herold, dist
+[6/3/2013 22:44:29] /addskill GOD Herold, dist
+[6/3/2013 22:44:29] /addskill GOD Herold, dist
+[6/3/2013 22:44:31] /addskill GOD Herold, dist
+[6/3/2013 22:44:31] /addskill GOD Herold, dist
+[6/3/2013 22:44:32] /addskill GOD Herold, dist
+[6/3/2013 22:44:32] /addskill GOD Herold, dist
+[6/3/2013 22:44:32] /addskill GOD Herold, dist
+[6/3/2013 22:44:32] /addskill GOD Herold, dist
+[6/3/2013 22:44:32] /addskill GOD Herold, dist
+[6/3/2013 22:44:32] /addskill GOD Herold, dist
+[6/3/2013 22:44:32] /addskill GOD Herold, dist
+[6/3/2013 22:44:33] /addskill GOD Herold, dist
+[6/3/2013 22:44:33] /addskill GOD Herold, dist
+[6/3/2013 22:44:33] /addskill GOD Herold, dist
+[6/3/2013 22:44:33] /addskill GOD Herold, dist
+[6/3/2013 22:44:34] /addskill GOD Herold, dist
+[6/3/2013 22:44:34] /addskill GOD Herold, dist
+[6/3/2013 22:44:34] /addskill GOD Herold, dist
+[6/3/2013 22:44:34] /addskill GOD Herold, dist
+[6/3/2013 22:44:34] /addskill GOD Herold, dist
+[6/3/2013 22:44:34] /addskill GOD Herold, dist
+[6/3/2013 22:44:35] /addskill GOD Herold, dist
+[6/3/2013 22:44:35] /addskill GOD Herold, dist
+[6/3/2013 22:44:35] /addskill GOD Herold, dist
+[6/3/2013 22:44:35] /addskill GOD Herold, dist
+[6/3/2013 22:44:35] /addskill GOD Herold, dist
+[6/3/2013 22:44:36] /addskill GOD Herold, dist
+[6/3/2013 22:44:36] /addskill GOD Herold, dist
+[6/3/2013 22:44:36] /addskill GOD Herold, dist
+[6/3/2013 22:44:36] /addskill GOD Herold, dist
+[6/3/2013 22:44:36] /addskill GOD Herold, dist
+[6/3/2013 22:44:37] /addskill GOD Herold, dist
+[6/3/2013 22:44:37] /addskill GOD Herold, dist
+[6/3/2013 22:44:37] /addskill GOD Herold, dist
+[6/3/2013 22:44:37] /addskill GOD Herold, dist
+[6/3/2013 22:44:37] /addskill GOD Herold, dist
+[6/3/2013 22:44:38] /addskill GOD Herold, dist
+[6/3/2013 22:44:38] /addskill GOD Herold, dist
+[6/3/2013 22:44:38] /addskill GOD Herold, dist
+[6/3/2013 22:44:38] /addskill GOD Herold, dist
+[6/3/2013 22:44:38] /addskill GOD Herold, dist
+[6/3/2013 22:44:39] /addskill GOD Herold, dist
+[6/3/2013 22:44:39] /addskill GOD Herold, dist
+[6/3/2013 22:44:39] /addskill GOD Herold, dist
+[6/3/2013 22:44:39] /addskill GOD Herold, dist
+[6/3/2013 22:44:40] /addskill GOD Herold, dist
+[6/3/2013 22:44:40] /addskill GOD Herold, dist
+[6/3/2013 22:44:40] /addskill GOD Herold, dist
+[6/3/2013 22:44:40] /addskill GOD Herold, dist
+[6/3/2013 22:44:40] /addskill GOD Herold, dist
+[6/3/2013 22:44:40] /addskill GOD Herold, dist
+[6/3/2013 22:44:41] /addskill GOD Herold, dist
+[6/3/2013 22:44:41] /addskill GOD Herold, dist
+[6/3/2013 22:44:41] /addskill GOD Herold, dist
+[6/3/2013 22:44:42] /addskill GOD Herold, dist
+[6/3/2013 22:44:42] /addskill GOD Herold, dist
+[6/3/2013 22:44:43] /addskill GOD Herold, dist
+[6/3/2013 22:44:43] /addskill GOD Herold, dist
+[6/3/2013 22:44:43] /addskill GOD Herold, dist
+[6/3/2013 22:44:43] /addskill GOD Herold, dist
+[6/3/2013 22:44:49] /addskill GOD Herold, dist
+[6/3/2013 22:44:50] /addskill GOD Herold, dist
+[6/3/2013 22:44:50] /addskill GOD Herold, dist
+[6/3/2013 22:44:51] /addskill GOD Herold, dist
+[6/3/2013 22:44:52] /addskill GOD Herold, dist
+[6/3/2013 22:44:54] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:55] /addskill GOD Herold, dist
+[6/3/2013 22:44:56] /addskill GOD Herold, dist
+[6/3/2013 22:44:56] /addskill GOD Herold, dist
+[6/3/2013 22:44:56] /addskill GOD Herold, dist
+[6/3/2013 22:44:56] /addskill GOD Herold, dist
+[6/3/2013 22:44:56] /addskill GOD Herold, dist
+[6/3/2013 22:44:57] /addskill GOD Herold, dist
+[6/3/2013 22:44:57] /addskill GOD Herold, dist
+[6/3/2013 22:44:57] /addskill GOD Herold, dist
+[6/3/2013 22:44:57] /addskill GOD Herold, dist
+[6/3/2013 22:44:57] /addskill GOD Herold, dist
+[6/3/2013 22:44:57] /addskill GOD Herold, dist
+[6/3/2013 22:44:57] /addskill GOD Herold, dist
+[6/3/2013 22:45:53] /reload creaturescript
+[6/3/2013 22:45:56] /addskill GOD Herold, dist
+[6/3/2013 22:45:57] /addskill GOD Herold, dist
+[6/3/2013 22:45:58] /addskill GOD Herold, dist
+[6/3/2013 22:45:58] /addskill GOD Herold, dist
+[6/3/2013 22:45:59] /addskill GOD Herold, dist
+[6/3/2013 22:45:59] /addskill GOD Herold, dist
+[6/3/2013 22:46:0] /addskill GOD Herold, dist
+[6/3/2013 22:46:21] /addskill GOD Herold, dist
+[6/3/2013 22:46:22] /reload creaturescript
+[6/3/2013 22:46:26] /addskill GOD Herold, dist
+[6/3/2013 22:46:26] /i 7673
+[6/3/2013 22:46:32] /addskill GOD Herold, dist
+[6/3/2013 22:46:32] /addskill GOD Herold, dist
+[6/3/2013 22:46:32] /addskill GOD Herold, dist
+[6/3/2013 22:46:32] /addskill GOD Herold, dist
+[6/3/2013 22:46:32] /addskill GOD Herold, dist
+[6/3/2013 22:46:33] /addskill GOD Herold, dist
+[6/3/2013 22:46:33] /addskill GOD Herold, dist
+[6/3/2013 22:46:33] /addskill GOD Herold, dist
+[6/3/2013 22:46:33] /addskill GOD Herold, dist
+[6/3/2013 22:46:33] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:34] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:35] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:36] /addskill GOD Herold, dist
+[6/3/2013 22:46:58] /m demon
+[6/3/2013 23:27:30] /addskill GOD Herold, dist
+[6/3/2013 23:27:38] /addskill GOD Herold, mg
+[6/3/2013 23:27:45] /addskill GOD Herold, shield
+[6/3/2013 23:27:46] /addskill GOD Herold, shield
+[6/3/2013 23:27:47] /addskill GOD Herold, shield
+[6/3/2013 23:27:48] /addskill GOD Herold, shield
+[6/3/2013 23:27:50] /addskill GOD Herold, shield
+[6/3/2013 23:27:51] /addskill GOD Herold, shield
+[6/3/2013 23:27:52] /addskill GOD Herold, shield
+[6/3/2013 23:27:54] /addskill GOD Herold, shield
+[6/3/2013 23:27:54] /addskill GOD Herold, shield
+[6/3/2013 23:27:55] /addskill GOD Herold, shield
+[6/3/2013 23:27:56] /addskill GOD Herold, shield
+[6/3/2013 23:27:57] /addskill GOD Herold, shield
+[6/3/2013 23:27:57] /addskill GOD Herold, shield
+[6/3/2013 23:27:58] /addskill GOD Herold, shield
+[6/3/2013 23:27:58] /addskill GOD Herold, shield
+[6/3/2013 23:27:58] /addskill GOD Herold, shield
+[6/3/2013 23:27:59] /addskill GOD Herold, shield
+[6/3/2013 23:27:59] /addskill GOD Herold, shield
+[6/3/2013 23:28:1] /addskill GOD Herold, shield
+[6/3/2013 23:28:2] /addskill GOD Herold, shield
+[6/3/2013 23:28:3] /addskill GOD Herold, shield
+[6/3/2013 23:28:3] /addskill GOD Herold, shield
+[6/3/2013 23:28:4] /addskill GOD Herold, shield
+[6/3/2013 23:28:5] /addskill GOD Herold, shield
+[6/3/2013 23:28:5] /addskill GOD Herold, shield
+[6/3/2013 23:28:6] /addskill GOD Herold, shield
+[6/3/2013 23:28:6] /addskill GOD Herold, shield
+[6/3/2013 23:28:6] /addskill GOD Herold, shield
+[6/3/2013 23:28:7] /addskill GOD Herold, shield
+[6/3/2013 23:28:7] /addskill GOD Herold, shield
+[6/3/2013 23:28:8] /addskill GOD Herold, shield
+[6/3/2013 23:28:8] /addskill GOD Herold, shield
+[6/3/2013 23:28:9] /addskill GOD Herold, shield
+[6/3/2013 23:28:9] /addskill GOD Herold, shield
+[6/3/2013 23:28:10] /addskill GOD Herold, shield
+[6/3/2013 23:28:10] /addskill GOD Herold, shield
+[6/3/2013 23:28:11] /addskill GOD Herold, shield
+[6/3/2013 23:28:11] /addskill GOD Herold, shield
+[6/3/2013 23:28:11] /addskill GOD Herold, shield
+[6/3/2013 23:28:12] /addskill GOD Herold, shield
+[6/3/2013 23:28:13] /addskill GOD Herold, shield
+[6/3/2013 23:28:13] /addskill GOD Herold, shield
+[6/3/2013 23:28:14] /addskill GOD Herold, shield
+[6/3/2013 23:28:32] /addskill GOD Herold, fishing
+[6/3/2013 23:28:33] /addskill GOD Herold, fishing
+[6/3/2013 23:28:34] /addskill GOD Herold, fishing
+[6/3/2013 23:28:34] /addskill GOD Herold, fishing
+[6/3/2013 23:28:35] /addskill GOD Herold, fishing
+[6/3/2013 23:28:35] /addskill GOD Herold, fishing
+[6/3/2013 23:28:36] /addskill GOD Herold, fishing
+[6/3/2013 23:28:36] /addskill GOD Herold, fishing
+[6/3/2013 23:28:47] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:48] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:49] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:50] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:51] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:52] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:53] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:54] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:55] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:56] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:57] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:58] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:28:59] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:0] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:1] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:2] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:3] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:4] /addskill GOD Herold, fishing
+[6/3/2013 23:29:31] /i fishing rod
+[6/3/2013 23:29:38] /i worm
+[7/3/2013 12:15:18] /m manarune
+[7/3/2013 12:15:21] /i manarune
+[7/3/2013 12:15:25] /i manarune
+[7/3/2013 12:37:48] /i 7588
+[7/3/2013 12:38:31] /i sudden death rune
+[7/3/2013 12:42:54] /reload creaturescript
+[7/3/2013 12:44:17] /reload creaturescript
+[7/3/2013 12:45:30] /reload creaturescript
+[7/3/2013 12:47:38] /reload creaturescript
+[7/3/2013 12:47:50] /reload creaturescript
+[7/3/2013 12:48:41] /reload creaturescript
+[7/3/2013 12:49:42] /reload creaturescript
+[7/3/2013 12:49:44] /reload creaturescript
+[7/3/2013 12:50:26] /reload creaturescript
+[7/3/2013 12:52:51] /reload creaturescript
+[7/3/2013 12:52:54] /reload creaturescript
+[7/3/2013 12:53:42] /reload creaturescript
+[7/3/2013 12:55:4] /reload creaturescript
+[7/3/2013 12:56:40] /reload creaturescript
+[7/3/2013 13:7:36] /reload creaturescript
+[7/3/2013 13:7:38] /reload creaturescript
+[7/3/2013 13:10:45] /reload creaturescript
+[7/3/2013 15:7:33] /i 8982
+[7/3/2013 15:7:46] /i 9020
+[7/3/2013 15:15:59] /reload creaturescript
+[7/3/2013 15:22:12] /reload creaturescript
+[7/3/2013 15:46:1] /reload creaturescript
+[7/3/2013 15:49:18] /reload creaturescript
+[7/3/2013 15:49:21] /reload creaturescript
+[7/3/2013 15:50:53] /reload creaturescript
+[7/3/2013 15:52:47] /reload creaturescript
+[7/3/2013 15:56:17] /reload creaturescript
+[7/3/2013 15:58:21] /reload creaturescript
+[7/3/2013 18:16:7] /reload talkaction
+[7/3/2013 18:16:12] /reload talkaction
+[7/3/2013 18:16:41] /reload talkaction
+[7/3/2013 18:35:8] /reload talkaction
+[7/3/2013 18:44:3] /reload talkaction
+[7/3/2013 18:44:5] /reload talkaction
+[7/3/2013 18:45:24] /reload talkaction
+[7/3/2013 18:53:32] /reload talkaction
+[7/3/2013 18:53:39] /reload talkaction
+[7/3/2013 18:53:50] /reload talkaction
+[7/3/2013 19:3:41] /reload talkaction
+[7/3/2013 19:4:16] /reload talkaction
+[7/3/2013 19:13:7] /reload talkaction
+[7/3/2013 19:14:42] /reload talkaction
+[7/3/2013 19:38:18] /m fragon
+[7/3/2013 19:38:28] /m dragon
+[7/3/2013 19:58:11] /reload npc
+[7/3/2013 20:2:53] /reload npc
+[7/3/2013 20:16:1] /reload npc
+[7/3/2013 20:18:48] /reload npc
+[8/3/2013 16:9:32] /closeserver
+[8/3/2013 16:16:41] /zombiestart
+[8/3/2013 16:17:10] /openserver
+[8/3/2013 16:22:19] /zombiestart force
+[8/3/2013 16:23:42] /zombiestart
+[8/3/2013 16:23:52] /zombiestart force
+[8/3/2013 16:56:27] /zombiestart
+[8/3/2013 16:56:28] /zombiestart
+[8/3/2013 16:56:29] /zombiestart
+[9/3/2013 11:13:7] /reload talkactions
+[9/3/2013 11:13:30] /zombiestart
+[9/3/2013 11:16:53] /zombiestart
+[9/3/2013 11:16:55] /zombiestart
+[9/3/2013 11:17:9] /zombiestart
+[9/3/2013 11:20:24] /reload talkactions
+[9/3/2013 11:20:27] /zombiestart
+[9/3/2013 11:20:34] /zombiestart
+[9/3/2013 11:21:11] /reload talkactions
+[9/3/2013 11:21:13] /zombiestart
+[9/3/2013 11:21:30] /zombiestart
+[9/3/2013 11:22:45] /reload talkactions
+[9/3/2013 11:22:48] /zombiestart
+[9/3/2013 11:22:51] /zombiestart
+[9/3/2013 11:22:56] /zombiestart
+[9/3/2013 11:48:36] /down
+[9/3/2013 11:58:31] /reload talkactions
+[9/3/2013 12:0:9] /reload talkactions
+[9/3/2013 12:4:8] /c gooby
+[9/3/2013 12:5:29] /reload talkactions
+[9/3/2013 12:7:59] /reload talkactions
+[9/3/2013 12:8:1] /reload talkactions
+[9/3/2013 12:9:28] /reload talkactions
+[9/3/2013 12:13:3] /reload talkactions
+[9/3/2013 12:13:38] /reload talkactions
+[9/3/2013 12:15:43] /reload talkactions
+[9/3/2013 12:16:15] /reload talkactions
+[9/3/2013 12:16:20] /t
+[9/3/2013 12:21:18] /reload talkactions
+[9/3/2013 12:35:9] /reload talkaction
+[9/3/2013 12:35:40] /c gooby
+[9/3/2013 12:50:23] /reload talkactions
+[9/3/2013 12:55:51] /t
+[9/3/2013 12:55:55] /c gooby
+[9/3/2013 12:57:38] /t
+[9/3/2013 12:57:41] /c gooby
+[9/3/2013 12:58:22] /save
+[9/3/2013 13:3:39] /goto gooby
+[9/3/2013 13:7:30] /c gooby
+[9/3/2013 13:14:2] /c gooby
+[9/3/2013 13:27:32] /c gooby
+[9/3/2013 13:35:7] /c gooby
+[9/3/2013 13:35:16] /m king
+[9/3/2013 13:35:34] /r
+[9/3/2013 13:51:2] /c gooby
+[9/3/2013 13:51:7] /save
+[9/3/2013 14:28:10] /t
+[9/3/2013 14:28:24] /zombiestart
+[9/3/2013 14:28:47] /t
+[9/3/2013 14:33:33] /t
+[9/3/2013 14:36:39] /i crystal coin
+[9/3/2013 20:28:38] /i 1981
+[9/3/2013 20:38:9] /t
+[10/3/2013 0:55:44] /zombiestart
+[10/3/2013 1:13:40] /reload actions
+[10/3/2013 1:15:56] /reload actions
+[10/3/2013 1:20:14] /reload actions
+[10/3/2013 1:29:17] /reload actions
+[10/3/2013 1:29:18] /t
+[10/3/2013 1:39:37] /reload actions
+[10/3/2013 2:36:36] /reload globalevents
+[10/3/2013 3:47:22] /zombiestart
+[10/3/2013 5:6:22] /closeserver
+[10/3/2013 15:44:25] /up
+[10/3/2013 16:8:50] /t
+[10/3/2013 18:1:49] /i greed bed kit
+[10/3/2013 18:1:53] /i greed bedkit
+[10/3/2013 18:2:1] /i greed bed kit
+[10/3/2013 18:2:9] /i greed bed kit
+[11/3/2013 12:11:10] /reload creaturescripts
+[11/3/2013 12:31:24] /i phoenix shield
+[11/3/2013 13:3:25] /reload actions
+[11/3/2013 13:10:50] /reload spells
+[11/3/2013 13:18:8] /reload spells
+[11/3/2013 13:50:46] /i 11756
+[11/3/2013 13:55:42] /i 10000
+[11/3/2013 14:2:8] /i 460
+[11/3/2013 14:40:7] /light
+[11/3/2013 14:40:21] /light
+[11/3/2013 14:40:27] /light
+[11/3/2013 14:53:26] /reload actions
+[11/3/2013 15:28:12] /reload actions
+[11/3/2013 15:29:44] /reload actions
+[11/3/2013 15:30:28] /reload actions
+[11/3/2013 15:46:41] /reload actions
+[11/3/2013 15:50:50] /reload globalevent
+[11/3/2013 15:51:9] /reload globalevent
+[11/3/2013 15:55:1] /t
+[11/3/2013 15:55:9] /reload globalevent
+[11/3/2013 15:56:59] /reload actions
+[11/3/2013 16:3:58] /reload globalevents
+[11/3/2013 16:4:3] /reload actions
+[11/3/2013 16:4:19] /c ub kenobi
+[11/3/2013 16:4:36] /zombiestart
+[11/3/2013 16:4:50] /t
+[11/3/2013 16:5:16] /zombiestart force
+[11/3/2013 16:5:18] /zombiestart force
+[11/3/2013 16:5:58] /zombiestart
+[11/3/2013 16:9:35] /reload actions
+[11/3/2013 16:9:36] /t
+[11/3/2013 16:10:4] /zombiestart
+[11/3/2013 16:13:17] /t
+[11/3/2013 16:27:18] /i 2164
+[11/3/2013 16:36:10] /reload creatureevents
+[11/3/2013 16:38:42] /reload creatureevents
+[11/3/2013 16:39:25] /reload creatureevents
+[11/3/2013 16:39:34] /reload creatureevents
+[11/3/2013 16:41:18] /reload creatureevents
+[11/3/2013 16:43:24] /reload creatureevents
+[11/3/2013 16:45:40] /reload creatureevents
+[11/3/2013 16:49:16] /reload creatureevents
+[11/3/2013 16:51:26] /reload creatureevents
+[11/3/2013 16:52:24] /reload creatureevents
+[11/3/2013 16:53:33] /reload creatureevents
+[11/3/2013 16:56:52] /reload creatureevents
+[11/3/2013 16:58:12] /reload creatureevents
+[11/3/2013 16:58:57] /reload creatureevents
+[11/3/2013 17:2:7] /reload creatureevents
+[11/3/2013 17:5:4] /reload creatureevents
+[11/3/2013 17:6:31] /reload creatureevents
+[11/3/2013 17:6:34] /reload creatureevents
+[11/3/2013 17:7:30] /reload creatureevents
+[11/3/2013 17:9:32] /reload creatureevents
+[11/3/2013 17:10:8] /reload creatureevents
+[11/3/2013 17:10:15] /reload creatureevents
+[11/3/2013 17:11:44] /reload creatureevents
+[11/3/2013 17:18:21] /reload creatureevents
+[11/3/2013 17:20:18] /reload creatureevents
+[13/3/2013 9:1:29] /ban 
+[13/3/2013 9:1:38] /ban 
+[13/3/2013 9:2:19] /ban Bajspojken
+[13/3/2013 9:2:36] /ban Bajspojken
+[13/3/2013 9:2:59] /ban
+[13/3/2013 9:3:13] /ban Bajspojken
+[13/3/2013 10:16:39] /light
+[13/3/2013 10:16:43] /light
+[13/3/2013 10:16:44] /light
+[13/3/2013 10:16:45] /light
+[13/3/2013 10:17:15] /t
+[13/3/2013 10:22:47] /reload talkactions
+[13/3/2013 10:23:17] /reload talkactions
+[13/3/2013 10:23:25] /reload talkactions
+[13/3/2013 10:42:34] /ban ub kenobi
+[13/3/2013 10:42:52] /ban ub kenobi
+[13/3/2013 10:43:8] /ban ub kenobi
+[13/3/2013 10:43:28] /ban ub kenobi, 1
+[13/3/2013 10:44:55] /ban
+[13/3/2013 10:45:0] /ban
+[13/3/2013 10:45:6] /ban
+[13/3/2013 10:46:16] /ban
+[13/3/2013 10:46:31] /ban
+[13/3/2013 10:48:2] /ban
+[13/3/2013 10:48:25] /ban
+[13/3/2013 10:51:23] /reload creaturescripts
+[13/3/2013 10:51:26] /ban
+[13/3/2013 10:52:39] /unban ub keobi
+[13/3/2013 10:52:44] /unban ub kenobi
+[13/3/2013 10:52:48] /ban
+[13/3/2013 10:52:52] /ban
+[13/3/2013 10:53:31] /ban
+[13/3/2013 10:54:22] /ban
+[13/3/2013 10:55:34] /ban
+[13/3/2013 10:56:18] /ban
+[13/3/2013 11:8:23] /ban
+[13/3/2013 11:8:32] /ban
+[13/3/2013 11:8:37] /ban
+[13/3/2013 11:8:59] /unban
+[13/3/2013 11:17:12] /ban
+[13/3/2013 11:17:53] /ban
+[13/3/2013 11:37:29] /ban
+[13/3/2013 12:52:10] /reload talkactions
+[13/3/2013 15:29:6] /reload creaturescript
+[13/3/2013 15:46:24] /unban swaggot
+[13/3/2013 15:48:16] /i [D]slingshot
+[13/3/2013 15:53:3] /kick ub kenobi
+[13/3/2013 15:56:23] /i [D]zorro's sword
+[13/3/2013 15:56:28] /i [D]zorro sword
+[13/3/2013 15:56:55] /i [D]zorro's sword
+[13/3/2013 16:5:56] /save
+[14/3/2013 9:20:41] /reload talkaction
+[14/3/2013 9:25:12] /reload talkactions
+[14/3/2013 13:47:57] /light
+[14/3/2013 13:48:6] /light
+[14/3/2013 13:48:8] /light
+[14/3/2013 13:48:56] /light
+[14/3/2013 13:49:1] /light
+[14/3/2013 14:6:17] /m demon
+[14/3/2013 14:16:27] /reload spells
+[14/3/2013 14:16:41] /m demon
+[14/3/2013 14:21:34] /reload spells
+[14/3/2013 14:21:37] /m demon
+[14/3/2013 14:22:21] /reload spells
+[14/3/2013 14:26:35] /reload spells
+[14/3/2013 14:28:11] /m dragon
+[14/3/2013 14:28:12] /m dragon
+[14/3/2013 14:29:42] /reload spells
+[14/3/2013 14:30:31] /reload spells
+[14/3/2013 14:32:39] /reload spells
+[14/3/2013 14:33:53] /reload spells
+[14/3/2013 14:34:2] /m dragon
+[14/3/2013 14:34:15] /m dragon
+[14/3/2013 14:34:15] /m dragon
+[14/3/2013 14:34:16] /m dragon
+[14/3/2013 14:34:16] /m dragon
+[14/3/2013 14:46:36] /reload spells
+[14/3/2013 14:49:48] /reload monster
+[14/3/2013 14:50:8] /reload monster
+[14/3/2013 14:50:12] /reload spells
+[14/3/2013 14:51:54] /reload spells
+[14/3/2013 14:52:16] /m clone
+[14/3/2013 14:52:19] /m clone
+[14/3/2013 14:52:21] /m clone
+[14/3/2013 14:59:28] /reload spells
+[14/3/2013 15:15:50] /m rotworm
+[14/3/2013 15:15:51] /m rotworm
+[14/3/2013 15:15:52] /m rotworm
+[14/3/2013 15:15:52] /m rotworm
+[14/3/2013 15:15:52] /m rotworm
+[14/3/2013 15:15:53] /m rotworm
+[14/3/2013 15:17:1] /m demon
+[14/3/2013 15:17:3] /m demon
+[14/3/2013 15:17:30] /m demon
+[14/3/2013 15:17:44] /m demon
+[14/3/2013 15:24:25] /reload spells
+[14/3/2013 15:29:23] /reload spells
+[14/3/2013 15:47:35] /reload spells
+[14/3/2013 15:48:5] /i arrow
+[14/3/2013 15:48:27] /m orshabaal
+[14/3/2013 15:48:30] /m orshabaal
+[14/3/2013 15:49:2] /i arrow
+[14/3/2013 15:53:26] /reload spells
+[14/3/2013 15:56:53] /reload spells
+[14/3/2013 15:57:5] /i arrow
+[14/3/2013 16:4:31] /i infernal bolt
+[14/3/2013 16:4:37] /i infernal bolt
+[14/3/2013 16:4:53] /i power bolt
+[14/3/2013 16:21:59] /goto 464,269,5
+[14/3/2013 16:24:29] /goto 464,269,5
+[14/3/2013 16:29:28] /goto 464,269,5
+[14/3/2013 16:30:2] /goto 479,299,5
+[14/3/2013 16:30:3] /goto 479,299,5
+[14/3/2013 16:33:17] /goto 479,299,5
+[14/3/2013 16:37:5] /goto 479,299,5
+[14/3/2013 16:41:52] /goto 479,299,5
+[14/3/2013 16:42:28] /goto 456,274,6
+[14/3/2013 16:42:35] /goto 456,274,5
+[14/3/2013 16:42:38] /goto 456,274,5
+[14/3/2013 16:45:28] /goto 456,274,5
+[14/3/2013 16:45:31] /goto 456,274,5
+[14/3/2013 16:50:1] /goto 456,274,5
+[14/3/2013 16:50:8] /goto 456,274,5
+[14/3/2013 16:54:3] /goto 456,274,5
+[14/3/2013 16:57:27] /goto 538,284,5
+[14/3/2013 16:59:39] /goto 538,284,5
+[14/3/2013 16:59:41] /goto 538,284,5
+[14/3/2013 16:59:44] /goto 538,284,5
+[14/3/2013 16:59:47] /goto 538,284,5
+[14/3/2013 17:1:51] /goto 538,284,5
+[14/3/2013 17:1:53] /goto 538,284,5
+[14/3/2013 17:4:47] /goto 538,284,5
+[14/3/2013 17:4:49] /goto 538,284,5
+[14/3/2013 17:10:49] /goto 538,284,5
+[14/3/2013 17:17:32] /t
+[15/3/2013 0:27:35] /t
+[15/3/2013 15:41:9] /t
+[15/3/2013 15:41:13] /m conan
+[15/3/2013 15:41:14] /m conan
+[15/3/2013 15:41:15] /m conan
+[15/3/2013 15:41:21] /m conan
+[15/3/2013 15:41:22] /m conan
+[15/3/2013 15:41:23] /m conan
+[15/3/2013 15:41:32] /m conan
+[15/3/2013 15:41:43] /m Conan
+[15/3/2013 15:41:46] /s conan
+[15/3/2013 15:42:13] /m fatal
+[15/3/2013 15:42:14] /m fatal
+[15/3/2013 15:42:15] /m fatal
+[15/3/2013 15:42:17] /m fataljh
+[15/3/2013 15:42:17] /m fataljh
+[15/3/2013 15:42:18] /m fataljh
+[15/3/2013 15:42:30] /m finoa
+[15/3/2013 15:42:40] /m fluffy
+[15/3/2013 15:42:53] /m grim reaper
+[15/3/2013 15:43:17] /m grimer
+[15/3/2013 15:43:36] /m hellish tortoise
+[15/3/2013 15:43:45] /m hellish tortoise
+[15/3/2013 15:44:7] /m lava hole
+[15/3/2013 15:44:8] /m lava hole
+[15/3/2013 15:44:13] /m lavahole
+[15/3/2013 15:57:29] /down
+[15/3/2013 15:57:30] /down
+[15/3/2013 15:57:52] /down
+[15/3/2013 15:57:54] /down
+[15/3/2013 15:57:56] /down
+[15/3/2013 16:3:8] /t
+[15/3/2013 17:42:6] /r
+[15/3/2013 17:42:13] /r
+[15/3/2013 17:42:23] /r
+[15/3/2013 17:42:27] /r
+[15/3/2013 17:42:28] /r
+[15/3/2013 17:42:29] /r
+[16/3/2013 1:8:13] /i gold nuggets
+[16/3/2013 1:8:14] /i gold nuggets
+[16/3/2013 1:8:16] /i gold nugget
+[16/3/2013 1:28:35] /t
+[16/3/2013 17:21:58] /reload talkactions
+[21/3/2013 8:53:22] /a 1
+[21/3/2013 8:53:26] /a 1
+[21/3/2013 8:53:28] /a 1
+[21/3/2013 8:53:37] /a 1
+[21/3/2013 9:0:58] /i crystal coin
+[21/3/2013 9:0:59] /i crystal coin
+[21/3/2013 9:1:3] /i crystal coin
+[21/3/2013 9:1:3] /i crystal coin
+[21/3/2013 9:1:8] /i crystal coin
+[21/3/2013 9:1:12] /i crystal coin
+[21/3/2013 9:1:17] /i crystal coin
+[21/3/2013 9:1:18] /i crystal coin
+[21/3/2013 9:1:18] /i crystal coin
+[21/3/2013 9:1:19] /i crystal coin
+[21/3/2013 9:1:20] /i crystal coin
+[21/3/2013 9:1:55] /i crystal coin
+[21/3/2013 9:1:55] /i crystal coin
+[21/3/2013 9:1:56] /i crystal coin
+[21/3/2013 9:1:56] /i crystal coin
+[21/3/2013 9:1:57] /i crystal coin
+[21/3/2013 9:1:57] /i crystal coin
+[21/3/2013 9:1:57] /i crystal coin
+[21/3/2013 9:1:58] /i crystal coin
+[21/3/2013 9:1:58] /i crystal coin
+[21/3/2013 9:1:58] /i crystal coin
+[21/3/2013 9:1:59] /i crystal coin
+[21/3/2013 9:2:0] /i crystal coin
+[21/3/2013 9:3:38] /clean
+[21/3/2013 9:3:59] /i crystal coin
+[21/3/2013 9:3:59] /i crystal coin
+[21/3/2013 9:4:0] /i crystal coin
+[21/3/2013 9:4:0] /clean
+[21/3/2013 9:4:1] /clean
+[21/3/2013 9:4:1] /clean
+[21/3/2013 9:4:2] /i crystal coin
+[21/3/2013 9:4:3] /i crystal coin
+[21/3/2013 9:4:3] /i crystal coin
+[21/3/2013 9:4:4] /i crystal coin
+[21/3/2013 9:4:4] /i crystal coin
+[21/3/2013 9:4:4] /i crystal coin
+[21/3/2013 9:4:5] /i crystal coin
+[21/3/2013 9:4:5] /i crystal coin
+[21/3/2013 9:4:6] /i crystal coin
+[21/3/2013 9:6:10] /t
+[21/3/2013 12:14:50] /reload actions
+[21/3/2013 12:17:43] /t
+[21/3/2013 12:18:11] /reload actions
+[21/3/2013 12:18:28] /reload actions
+[21/3/2013 12:18:57] /reload actions
+[21/3/2013 14:53:38] /t
+[21/3/2013 14:58:7] /t
+[21/3/2013 14:58:8] /t
+[21/3/2013 14:58:9] /t
+[21/3/2013 15:48:44] /reload actions
+[21/3/2013 16:18:2] /reload actions
+[21/3/2013 16:24:2] /reload talkaction
+[21/3/2013 16:24:6] /reload actions
+[21/3/2013 16:25:24] /reload actions
+[21/3/2013 16:26:39] /reload actions
+[21/3/2013 16:28:31] /reload actions
+[21/3/2013 16:28:32] /reload actions
+[21/3/2013 16:28:34] /reload actions
+[21/3/2013 16:32:54] /reload actions
+[21/3/2013 16:38:15] /t
+[21/3/2013 16:41:56] /reload actions
+[21/3/2013 16:58:34] /reload actions
+[21/3/2013 17:12:30] /reload actions
+[21/3/2013 17:14:23] /reload actions
+[21/3/2013 17:18:25] /reload actions
+[21/3/2013 17:19:18] /reload actions
+[21/3/2013 17:22:24] /reload actions
+[21/3/2013 17:27:27] /reload actions
+[21/3/2013 17:35:1] /reload actions
+[21/3/2013 17:41:38] /reload actions
+[21/3/2013 18:15:52] /reload actions
+[22/3/2013 14:54:56] /t
+[22/3/2013 15:0:6] /reload actions
+[22/3/2013 15:0:20] /t
+[25/3/2013 17:28:4] /reload talkactions
+[25/3/2013 17:28:28] /reload talkactions
+[25/3/2013 17:30:59] /reload talkactions
+[25/3/2013 17:35:44] /reload talkactions
+[25/3/2013 17:35:47] /reload talkactions
+[25/3/2013 17:38:56] /reload talkactions
+[25/3/2013 17:45:54] /reload talkactions
+[25/3/2013 17:46:26] /reload talkactions
+[25/3/2013 17:47:19] /reload talkactions
+[25/3/2013 17:47:49] /reload talkactions
+[25/3/2013 17:48:14] /reload talkactions
+[25/3/2013 17:49:44] /reload talkactions
+[25/3/2013 17:50:11] /reload talkactions
+[25/3/2013 17:51:14] /reload talkactions
+[25/3/2013 17:52:11] /reload talkactions
+[25/3/2013 18:51:30] /reload creaturescript
+[25/3/2013 18:52:28] /reload cs
+[25/3/2013 18:52:36] /reload creaturescript
+[25/3/2013 19:4:20] /reload creaturescripts
+[25/3/2013 19:6:39] /reload creaturescript
+[25/3/2013 19:7:55] /reload creaturescript
+[25/3/2013 19:9:30] /reload creaturescripts
+[25/3/2013 19:10:1] /reload creaturescripts
+[25/3/2013 19:10:54] /reload creaturescript
+[25/3/2013 19:11:45] /reload creaturescript
+[25/3/2013 19:12:24] /reload creaturescript
+[25/3/2013 19:13:44] /reload creaturescript
+[25/3/2013 19:14:24] /reload creaturescript
+[25/3/2013 19:16:52] /reload creautreevents
+[25/3/2013 19:17:0] /reload creaturescripts
+[25/3/2013 19:20:32] /reload actions
+[25/3/2013 19:20:45] /reload creatureevents
+[25/3/2013 19:24:38] /reload creaturescripts
+[25/3/2013 19:25:48] /reload creauturescripts
+[25/3/2013 19:25:57] /reload creaturescripts
+[25/3/2013 19:28:41] /reload creaturescripts
+[25/3/2013 19:30:18] /reload creaturescripts
+[25/3/2013 19:30:59] /reload creaturescripts
+[25/3/2013 19:35:28] /reload creaturescripts
+[25/3/2013 19:46:8] /r
+[25/3/2013 19:46:9] /r
+[26/3/2013 17:55:59] /i 1423
+[26/3/2013 17:57:11] /i 1499
+[26/3/2013 17:57:13] /i 1499
+[26/3/2013 17:57:14] /i 1499
+[26/3/2013 17:57:18] /i 1499
+[26/3/2013 17:57:20] /i 1499
+[26/3/2013 17:57:21] /i 1499
+[26/3/2013 17:57:24] /i 1499
+[26/3/2013 17:57:25] /i 1499
+[26/3/2013 17:57:26] /i 1499
+[26/3/2013 17:57:26] /i 1499
+[26/3/2013 17:57:27] /i 1499
+[26/3/2013 17:57:27] /i 1499
+[26/3/2013 17:57:29] /i 1499
+[26/3/2013 17:59:3] /i 2579
+[26/3/2013 17:59:13] /m bear
+[26/3/2013 18:5:25] /reload moveevents
+[26/3/2013 18:9:45] /i 1788
+[26/3/2013 18:9:53] /i 2693
+[26/3/2013 18:10:10] /r
+[26/3/2013 18:10:24] /reload moveevents
+[26/3/2013 19:11:24] /c gooby
+[26/3/2013 19:15:8] /save
+[27/3/2013 20:16:37] /owner none, yes
+[27/3/2013 20:16:42] /owner none, yes
+[27/3/2013 20:16:44] /owner none, yes
+[27/3/2013 20:17:0] /owner nobody, yes
+[27/3/2013 20:17:5] /owner nobody, yes
+[27/3/2013 20:17:7] /owner nobody, yes
+[27/3/2013 20:17:8] /owner nobody, yes
+[27/3/2013 20:17:9] /owner nobody, yes
+[29/3/2013 14:6:9] /i [D]God's sceptre
+[29/3/2013 14:23:8] /i [D]Monocle of Magic
+[29/3/2013 14:24:33] /i [D]Cloak of Magic
+[29/3/2013 14:24:34] /i [D]Cloak of Magic
+[29/3/2013 14:24:59] /i [D]Coat of Magic
+[29/3/2013 14:35:36] /i [D]Legs of Magic
+[29/3/2013 14:35:55] /i [D]God's sceptre
+[29/3/2013 14:36:8] /i [D]Shield of magic
+[29/3/2013 14:36:33] /i [D]Boots of regeneration
+[29/3/2013 14:38:26] /i boots of haste
+[29/3/2013 14:45:57] /i 5918
+[29/3/2013 14:46:17] /i 5917
+[29/3/2013 14:46:27] /i 7460
+[29/3/2013 14:46:48] /i 5907
+[29/3/2013 15:13:53] /i [D]Elethriel's Elemental Bow
+[29/3/2013 15:14:19] /i crystal arrow
+[29/3/2013 15:14:50] /m demon
+[29/3/2013 15:18:58] /i 8854
+[29/3/2013 15:23:11] /m demon
+[29/3/2013 15:24:4] /s demon
+[29/3/2013 15:24:5] /s demon
+[29/3/2013 15:24:5] /s demon
+[29/3/2013 15:24:6] /s demon
+[29/3/2013 15:24:6] /s demon
+[29/3/2013 15:26:38] /addshop 8, You see [D]Elethriel's Elemental Bow (Range:7, Atk +30, Hit% +10).
+[29/3/2013 15:27:48] /addshop 6, You see a crystal arrow.
+[29/3/2013 15:32:34] /i master archers armor
+[29/3/2013 15:32:37] /i master archer's armor
+[29/3/2013 15:35:6] /i [D]Zorro's sword
+[29/3/2013 15:35:9] /i [D]Zorros sword
+[29/3/2013 15:35:40] /s demon
+[29/3/2013 15:35:54] /addskill sword, 1
+[29/3/2013 15:36:2] /addskill God Herold 
+[29/3/2013 15:36:4] /addskill God Herold , 1
+[29/3/2013 15:36:8] /addskill God Herold , sword
+[29/3/2013 15:36:9] /addskill God Herold , sword
+[29/3/2013 15:36:10] /addskill God Herold , sword
+[29/3/2013 15:36:11] /addskill God Herold , sword
+[29/3/2013 15:36:11] /addskill God Herold , sword
+[29/3/2013 15:36:17] /addskill God Herold , sword
+[29/3/2013 15:36:22] /addskill God Herold , sword
+[29/3/2013 15:36:24] /addskill God Herold , sword
+[29/3/2013 15:36:24] /addskill God Herold , sword
+[29/3/2013 15:36:26] /addskill God Herold , sword
+[29/3/2013 15:50:51] /i 12646
+[29/3/2013 16:7:47] /i 2160
+[29/3/2013 16:9:55] /i 2195
+[29/3/2013 16:10:10] /i 2466
+[29/3/2013 16:13:37] /i 9971
+[29/3/2013 16:13:44] /i 9971
+[29/3/2013 16:13:58] /i 9971
+[29/3/2013 16:14:2] /i 9971
+[29/3/2013 16:14:2] /i 9971
+[29/3/2013 16:14:3] /i 9971
+[29/3/2013 16:14:4] /i 9971
+[29/3/2013 16:14:4] /i 9971
+[29/3/2013 16:14:5] /i 9971
+[29/3/2013 16:14:5] /i 9971
+[29/3/2013 16:14:5] /i 9971
+[29/3/2013 16:14:6] /i 9971
+[29/3/2013 16:14:26] /i 2157
+[29/3/2013 16:15:6] /i 2466
+[29/3/2013 16:15:12] /i 7739
+[29/3/2013 16:17:5] /i 2498
+[29/3/2013 16:17:17] /i magic plate armor
+[30/3/2013 11:54:13] /i 3252
+[30/3/2013 11:54:18] /i 2252
+[30/3/2013 11:54:41] /i 2252
+[30/3/2013 11:54:54] /i 8858
+[30/3/2013 11:55:4] /i 2352
+[30/3/2013 12:2:53] /up
+[30/3/2013 12:3:1] /r
+[30/3/2013 16:45:12] /i bow
+[30/3/2013 17:7:43] /reload config lua
+[30/3/2013 17:9:22] /reload config lua
+[30/3/2013 17:39:43] /save
+[30/3/2013 17:39:47] /save
+[16/4/2013 15:4:53] /zombiestart

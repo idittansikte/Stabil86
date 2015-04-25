@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Portal of Hell" nameDescription="a Portal of Hell" race="undead" experience="10000" speed="0" manacost="0">
+ 
+*******************************************************************************************
+*              PORTAL OF HELL 1: This monster Was made by Amy Azzkaban                    *
+*                                   Monstruos armables                                    *
+* ADVERTENCIA: El item ID de este monstruo puede variar dependiendo del que usa tu OT     *
+*******************************************************************************************
+ 
+  <health now="6000" max="6000"/>
+  <look typeex="11796"/>
+  <targetchange interval="5000" chance="20"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="100"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+  </attacks>
+  <defenses armor="1" defense="1"/>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="1"/>
+    <immunity poison="1"/>
+    <immunity ice="0"/>
+    <immunity holy="0"/>
+    <immunity death="1"/>
+    <immunity lifedrain="1"/>
+    <immunity manadrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity drunk="1"/>
+    <immunity outfit="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="7">
+    <summon name="fire devil" interval="3000" chance="100" max="7"/>
+    <summon name="Demon Skeleton" interval="2000" chance="29" max="1"/>
+  </summons>
+</monster>

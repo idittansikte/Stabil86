@@ -1,0 +1,136 @@
+[29/03/2013 14:22:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 14:37:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 14:43:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 14:44:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 15:13:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 15:22:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 17:07:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 17:26:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 17:49:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 18:07:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2013 18:24:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2013 11:48:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/04/2013 15:01:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/04/2013 20:31:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/04/2013 17:45:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/04/2013 18:13:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/04/2013 14:28:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/04/2013 14:35:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/04/2013 16:39:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/05/2013 12:45:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/05/2013 14:13:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/05/2013 14:16:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/05/2013 02:01:14]  :: Houses cleaned:
+
+#1, owned by Plague
+Unnamed House #3, owned by Moody
+Unnamed House #12, owned by Hamdija
+Unnamed House #14, owned by Del Peltor
+Unnamed House #31, owned by Bananmaskinen
+Unnamed House #32, owned by Challe
+
+[31/05/2013 01:01:20]  :: Houses cleaned:
+
+Unnamed House #8, owned by Vodo Jester
+Unnamed House #9, owned by Omg
+#10, owned by George Jones
+Unnamed House #17, owned by Tonight
+Unnamed House #23, owned by Den Stora Kungen Of Kung
+Downlow II, owned by Ravimoon
+
+[26/06/2013 17:49:48]  :: Houses cleaned:
+
+#1, owned by Blodiga Bullen
+Unnamed House #6, owned by Nick Katten
+Unnamed House #7, owned by Xtc
+Unnamed House #9, owned by Ahh He Dead
+#10, owned by Magic Mhaan
+#11, owned by Lodel
+Unnamed House #13, owned by Kedda
+Unnamed House #14, owned by Aurelius
+Unnamed House #22, owned by Joint
+Unnamed House #24, owned by Virus
+Unnamed House #42, owned by Archangel
+Unnamed House #84, owned by Seitzor
+Lyxery II, owned by Chips
+Lyxery III, owned by Mr Swag
+Guildhall IV, owned by Joker
+
+[26/07/2013 15:15:56]  :: Houses cleaned:
+
+#1, owned by Chronicler
+Unnamed House #2, owned by Mage
+Unnamed House #3, owned by Tari
+Unnamed House #7, owned by Trollkarlen
+Unnamed House #9, owned by Tazok
+Unnamed House #19, owned by Prmik
+Unnamed House #28, owned by Zlitzzia
+Unnamed House #33, owned by Bremilio
+Luxery I, owned by Axe Pwn
+Seahouse Delux, owned by Divine
+
+[10/08/2013 12:24:27]  :: Houses cleaned:
+
+#11, owned by Zenith
+Unnamed House #12, owned by The Natural
+Unnamed House #13, owned by Honey
+Unnamed House #47, owned by Softaren
+Unnamed House #48, owned by Lasd
+
+[07/04/2015 11:36:14]  :: Houses cleaned:
+
+#1, owned by Rambo
+Unnamed House #3, owned by Kenzore
+Unnamed House #7, owned by Kenten
+Unnamed House #8, owned by Jimp
+Unnamed House #9, owned by Kenzor
+#10, owned by Heskey
+Unnamed House #14, owned by Dark Nightmare
+Unnamed House #17, owned by Noxi
+Unnamed House #67, owned by Jagiellonek
+Guildhall IV, owned by Pashkerolino
+

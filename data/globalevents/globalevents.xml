@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent name="save" interval="1800000" event="script" value="save.lua"/>
+	<globalevent name="clean" interval="7200000" event="script" value="clean.lua"/>
+
+	<globalevent name="init" type="startup" event="script" value="init.lua"/>
+	<globalevent name="globalsave" type="globalsave" event="script" value="init.lua"/>
+	<globalevent name="record" type="record" event="script" value="record.lua"/>
+	
+	<!-- Custom -->
+	<globalevent name="starterEffect" interval="8350" script="starterEffect.lua"/>
+	<globalevent name="magictext" interval="1400" script="magictext.lua"/>
+	<!--<globalevent name="magicrest" interval="1400" script="magicrest.lua"/> -->
+	
+	<globalevent name="shop" interval="10000" script="shop.lua"/>  
+	<globalevent name="history" interval="120000" script="history.lua"/> 
+	
+	<globalevent name="ZombieGlobalThink" interval="5000" event="script" value="zombie/onthink.lua"/>
+	<globalevent name="ZombieGlobalStartup" type="start" event="script" value="zombie/onstartup.lua"/>
+	<globalevent name="ZombieGlobalAutoStart1" time="14:00:00" event="script" value="zombie/start.lua"/>
+	<globalevent name="ZombieGlobalAutoStart2" time="16:00:00" event="script" value="zombie/start.lua"/>
+	<globalevent name="ZombieGlobalAutoStart3" time="18:00:00" event="script" value="zombie/start.lua"/>
+	<globalevent name="ZombieGlobalAutoStart4" time="20:00:00" event="script" value="zombie/start.lua"/>
+	<globalevent name="ZombieGlobalAutoStart5" time="22:00:00" event="script" value="zombie/start.lua"/>
+	<globalevent name="ZombieGlobalAutoStart6" time="00:10:00" event="script" value="zombie/start.lua"/>
+	<globalevent name="ZombieGlobalAutoStart7" time="02:00:00" event="script" value="zombie/start.lua"/>
+	
+	<globalevent name="trainingcheck" interval="60000" event="script" value="training_system/trainingcheck.lua"/>
+	<globalevent name="VIPtrainingcheck" interval="120000" event="script" value="training_system/VIPtrainingcheck.lua"/>
+
+	<!-- <globalevent name="timer_example" time="21:35:11" event="script" value="my_script.lua"/> -->
+</globalevents>

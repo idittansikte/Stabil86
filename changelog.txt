@@ -1,0 +1,296 @@
+-- Added Files
+Added : /data/actions/scripts/other/changegold.lua
+Added : /data/monster/Amazons/witch.xml
+Added : /data/monster/Annelids/rift worm.xml
+Added : /data/monster/Annelids/slug.xml
+Added : /data/monster/Apes/yeti.xml
+Added : /data/monster/Arachnids/giant spider wyda.xml
+Added : /data/monster/Arachnids/sacred spider.xml
+Added : /data/monster/Birds/berserker chicken.xml
+Added : /data/monster/Birds/demon parrot.xml
+Added : /data/monster/Birds/dire penguin.xml
+Added : /data/monster/Blobs/slime summon.xml
+Added : /data/monster/Blobs/slime.xml
+Added : /data/monster/Bonelords/eye of the seven.xml
+Added : /data/monster/Bosses/Apocalypse.xml
+Added : /data/monster/Bosses/Arachir the ancient one.xml
+Added : /data/monster/Bosses/Bazir.xml
+Added : /data/monster/Bosses/Coldheart.xml
+Added : /data/monster/Bosses/Diblis The Fair.xml
+Added : /data/monster/Bosses/Doomhowl.xml
+Added : /data/monster/Bosses/Freegoiz.xml
+Added : /data/monster/Bosses/Infernatil.xml
+Added : /data/monster/Bosses/Kraknaknork Demon.xml
+Added : /data/monster/Bosses/Rottie the Rotworm.xml
+Added : /data/monster/Bosses/Sir Valorcrest.xml
+Added : /data/monster/Bosses/Verminor.xml
+Added : /data/monster/Bosses/Yaga The Crone.xml
+Added : /data/monster/Bosses/Zevelon Duskbringer.xml
+Added : /data/monster/Bosses/Zoralurk.xml
+Added : /data/monster/Bosses/boogey.xml
+Added : /data/monster/Bosses/dirtbeard.xml
+Added : /data/monster/Bosses/earth overlord.xml
+Added : /data/monster/Bosses/energy overlord.xml
+Added : /data/monster/Bosses/evil mastermind.xml
+Added : /data/monster/Bosses/fire overlord.xml
+Added : /data/monster/Bosses/groam.xml
+Added : /data/monster/Bosses/ice overlord.xml
+Added : /data/monster/Bosses/inky.xml
+Added : /data/monster/Bosses/mephiles.xml
+Added : /data/monster/Bosses/monstor.xml
+Added : /data/monster/Bosses/sharptooth.xml
+Added : /data/monster/Bosses/spider queen.xml
+Added : /data/monster/Bosses/splasher.xml
+Added : /data/monster/Bosses/the bloodweb.xml
+Added : /data/monster/Bosses/the dreadorian.xml
+Added : /data/monster/Bosses/the frog prince.xml
+Added : /data/monster/Canines/hellhound.xml
+Added : /data/monster/Canines/hot dog.xml
+Added : /data/monster/Crustaceans/blood crab underwater.xml
+Added : /data/monster/Deeplings
+Added : /data/monster/Deeplings/deepling scout.xml
+Added : /data/monster/Demonlord
+Added : /data/monster/Demonlord/orshabaal.xml
+Added : /data/monster/Demons/rift brood.xml
+Added : /data/monster/Demons/rift scythe.xml
+Added : /data/monster/Djinn
+Added : /data/monster/Djinn/blue djinn.xml
+Added : /data/monster/Djinn/efreet.xml
+Added : /data/monster/Djinn/green djinn.xml
+Added : /data/monster/Djinn/marid.xml
+Added : /data/monster/Electro-Elementals
+Added : /data/monster/Electro-Elementals/charged energy elemental.xml
+Added : /data/monster/Electro-Elementals/energy elemental.xml
+Added : /data/monster/Electro-Elementals/massive energy elemental.xml
+Added : /data/monster/Electro-Elementals/overcharged energy elemental.xml
+Added : /data/monster/Event Creatures
+Added : /data/monster/Event Creatures/hacker.xml
+Added : /data/monster/Frogs/bog frog.xml
+Added : /data/monster/Frogs/deathspawn.xml
+Added : /data/monster/Frogs/filth toad.xml
+Added : /data/monster/Frogs/infernal frog.xml
+Added : /data/monster/Glires/squirrel.xml
+Added : /data/monster/Geo-Elementals/eternal guardian.xml
+Added : /data/monster/Ghosts/souleater.xml
+Added : /data/monster/Glires
+Added : /data/monster/Glires/cave rat.xml
+Added : /data/monster/Glires/halloweenhare.xml
+Added : /data/monster/Glires/killer rabbit.xml
+Added : /data/monster/Glires/rabbit.xml
+Added : /data/monster/Glires/rat.xml
+Added : /data/monster/Glires/silver rabbit.xml
+Added : /data/monster/Insects/pink butterfly.xml
+Added : /data/monster/Lizards/lizard magistratus.xml
+Added : /data/monster/Lizards/lizard noble.xml
+Added : /data/monster/Misc/Misc Mammals
+Added : /data/monster/Misc/Misc Mammals/badger.xml
+Added : /data/monster/Misc/Misc Mammals/bat.xml
+Added : /data/monster/Misc/Misc Mammals/hyaena.xml
+Added : /data/monster/Misc/Misc Mammals/skunk.xml
+Added : /data/monster/Misc/Misc Reptiles
+Added : /data/monster/Misc/Misc Reptiles/crocodile.xml
+Added : /data/monster/Misc/Misc Reptiles/hydra.xml
+Added : /data/monster/Misc/Misc Reptiles/killer caiman.xml
+Added : /data/monster/Misc/Misc Reptiles/thornback tortoise.xml
+Added : /data/monster/Misc/Misc Reptiles/tortoise.xml
+Added : /data/monster/Mollusks
+Added : /data/monster/Skeletons/undead mine worker.xml
+Added : /data/monster/Skeletons/undead minion.xml
+Added : /data/monster/Sorcerers/yalahari.xml
+Added : /data/monster/Ungulates
+Added : /data/monster/Ungulates/black sheep.xml
+Added : /data/monster/Ungulates/boar.xml
+Added : /data/monster/Ungulates/deer.xml
+Added : /data/monster/Ungulates/doom deer.xml
+Added : /data/monster/Ungulates/elephant.xml
+Added : /data/monster/Ungulates/evil sheep lord.xml
+Added : /data/monster/Ungulates/evil sheep.xml
+Added : /data/monster/Ungulates/mammoth.xml
+Added : /data/monster/Ungulates/pig.xml
+Added : /data/monster/Ungulates/sheep.xml
+Added : /data/monster/Ungulates/vampire pig.xml
+Added : /data/monster/Voodoo Cultists
+Added : /data/monster/Voodoo Cultists/acolyte of the cult.xml
+Added : /data/monster/Voodoo Cultists/adept of the cult.xml
+Added : /data/monster/Voodoo Cultists/enlightened of the cult.xml
+Added : /data/monster/Voodoo Cultists/novice of the cult.xml
+
+-- Modified Files
+Modified : /config.lua.dist
+Modified : /data/actions/actions.xml
+Modified : /data/actions/lib/actions.lua
+Modified : /data/actions/scripts/foods/food.lua
+Modified : /data/creaturescripts/creaturescripts.xml
+Modified : /data/creaturescripts/scripts/ban/action.lua
+Modified : /data/creaturescripts/scripts/login.lua
+Modified : /data/items/items.otb
+Modified : /data/items/items.xml
+Modified : /data/lib/000-constant.lua
+Modified : /data/lib/100-shortcut.lua
+Modified : /data/lib/101-compat.lua
+Modified : /data/monster/Amazons/amazon.xml
+Modified : /data/monster/Amazons/valkyrie.xml
+Modified : /data/monster/Annelids/carrion worm.xml
+Modified : /data/monster/Arachnids/crystal spider.xml
+Modified : /data/monster/Arachnids/giant spider.xml
+Modified : /data/monster/Arachnids/poison spider.xml
+Modified : /data/monster/Arachnids/scorpion.xml
+Modified : /data/monster/Arachnids/spider.xml
+Modified : /data/monster/Arachnids/tarantula.xml
+Modified : /data/monster/Arachnids/wailing widow.xml
+Modified : /data/monster/Bosses/barbaria.xml
+Modified : /data/monster/Bosses/hide.xml
+Modified : /data/monster/Bosses/the count.xml
+Modified : /data/monster/Bosses/the old widow.xml
+Modified : /data/monster/Bosses/the plasmother.xml
+Modified : /data/monster/Bosses/thul.xml
+Modified : /data/monster/Crustaceans/blood crab.xml
+Modified : /data/monster/Crustaceans/crab.xml
+Modified : /data/monster/Crustaceans/crustacea gigantica.xml
+Modified : /data/monster/Demons/dark torturer.xml
+Modified : /data/monster/Demons/demon.xml
+Modified : /data/monster/Demons/destroyer.xml
+Modified : /data/monster/Demons/diabolic imp.xml
+Modified : /data/monster/Dragons/wyrm.xml
+Modified : /data/monster/Felines/midnight panther.xml
+Modified : /data/monster/Frogs/azure frog.xml
+Modified : /data/monster/Frogs/coral frog.xml
+Modified : /data/monster/Frogs/crimson frog.xml
+Modified : /data/monster/Frogs/green frog.xml
+Modified : /data/monster/Frogs/orchid frog.xml
+Modified : /data/monster/Frogs/toad.xml
+Modified : /data/monster/Insects/ancient scarab.xml
+Modified : /data/monster/Insects/brimstone bug.xml
+Modified : /data/monster/Insects/bug.xml
+Modified : /data/monster/Insects/centipede.xml
+Modified : /data/monster/Insects/insect swarm.xml
+Modified : /data/monster/Insects/insectoid scout.xml
+Modified : /data/monster/Insects/lancer beetle.xml
+Modified : /data/monster/Insects/larva.xml
+Modified : /data/monster/Insects/sandcrawler.xml
+Modified : /data/monster/Insects/scarab.xml
+Modified : /data/monster/Insects/terramite.xml
+Modified : /data/monster/Insects/wasp.xml
+Modified : /data/monster/Outlaws/crazed beggar.xml
+Modified : /data/monster/Pyro-Elementals/massive fire elemental.xml
+Modified : /data/monster/Quaras/quara constrictor scout.xml
+Modified : /data/monster/Quaras/quara constrictor.xml
+Modified : /data/monster/Quaras/quara hydromancer scout.xml
+Modified : /data/monster/Quaras/quara hydromancer.xml
+Modified : /data/monster/Quaras/quara mantassin scout.xml
+Modified : /data/monster/Quaras/quara mantassin.xml
+Modified : /data/monster/Quaras/quara pincher scout.xml
+Modified : /data/monster/Quaras/quara pincher.xml
+Modified : /data/monster/Quaras/quara predator scout.xml
+Modified : /data/monster/Quaras/quara predator.xml
+Modified : /data/monster/monsters.xml
+Modified : /data/movements/movements.xml
+Modified : /data/spells/spells.xml
+Modified : /data/weapons/weapons.xml
+Modified : /data/XML/servers.xml
+Modified : /source/Makefile.am
+Modified : /source/actions.cpp
+Modified : /source/chat.cpp
+Modified : /source/configmanager.cpp
+Modified : /source/configmanager.h
+Modified : /source/const.h
+Modified : /source/container.cpp
+Modified : /source/container.h
+Modified : /source/creature.cpp
+Modified : /source/creature.h
+Modified : /source/creatureevent.cpp
+Modified : /source/creatureevent.h
+Modified : /source/databasemanager.cpp
+Modified : /source/definitions.h
+Modified : /source/depot.cpp
+Modified : /source/depot.h
+Modified : /source/enums.h
+Modified : /source/game.cpp
+Modified : /source/game.h
+Modified : /source/house.cpp
+Modified : /source/iologindata.cpp
+Modified : /source/item.cpp
+Modified : /source/item.h
+Modified : /source/itemloader.h
+Modified : /source/items.cpp
+Modified : /source/items.h
+Modified : /source/luascript.cpp
+Modified : /source/luascript.h
+Modified : /source/monsters.cpp
+Modified : /source/networkmessage.cpp
+Modified : /source/networkmessage.h
+Modified : /source/npc.cpp
+Modified : /source/otserv.cpp
+Modified : /source/player.cpp
+Modified : /source/player.h
+Modified : /source/protocolgame.cpp
+Modified : /source/protocolgame.h
+Modified : /source/protocollogin.cpp
+Modified : /source/scriptmanager.cpp
+Modified : /source/spells.cpp
+Modified : /source/spells.h
+Modified : /source/talkaction.cpp
+Modified : /source/theforgottenserver.s3db
+Modified : /source/tools.cpp
+Modified : /source/cb/TheForgottenServer.cbp
+Modified : /source/schemas/mysql.sql
+Modified : /source/vc10/tfs.vcxproj
+Modified : /source/vc10/tfs.vcxproj.filters
+
+-- Deleted Files
+Deleted : /data/actions/scripts/dialogExample.lua
+Deleted : /data/actions/scripts/other/offlinetraining.lua
+Deleted : /data/actions/scripts/other/taming.lua
+Deleted : /data/creaturescripts/scripts/thankyou.lua
+Deleted : /data/monster/Arachnids/sandstone scorpion.xml
+Deleted : /data/monster/Bio-Elementals/slime summon.xml
+Deleted : /data/monster/Bio-Elementals/slime.xml
+Deleted : /data/monster/Bio-Elementals/slug.xml
+Deleted : /data/monster/Bosses/dire penguin.xml
+Deleted : /data/monster/Bosses/orshabaal.xml
+Deleted : /data/monster/Bosses/undead minion.xml
+Deleted : /data/monster/Cultists
+Deleted : /data/monster/Demons/hellhound.xml
+Deleted : /data/monster/Demons/shaburak demon.xml
+Deleted : /data/monster/Demons/shaburak prince.xml
+Deleted : /data/monster/Djinns
+Deleted : /data/monster/Elephants
+Deleted : /data/monster/Energy-Elementals
+Deleted : /data/monster/Geo-Elementals/earth overlord.xml
+Deleted : /data/monster/Giants/yeti.xml
+Deleted : /data/monster/Grunts
+Deleted : /data/monster/Hydro-Elementals/ice overlord.xml
+Deleted : /data/monster/Isle of Evil
+Deleted : /data/monster/Lizards/eternal guardian.xml
+Deleted : /data/monster/Misc/badger.xml
+Deleted : /data/monster/Misc/bat.xml
+Deleted : /data/monster/Misc/deer.xml
+Deleted : /data/monster/Misc/dromedary.xml
+Deleted : /data/monster/Misc/hacker.xml
+Deleted : /data/monster/Misc/halloweenhare.xml
+Deleted : /data/monster/Misc/horse(brown).xml
+Deleted : /data/monster/Misc/horse(fire).xml
+Deleted : /data/monster/Misc/horse(grey).xml
+Deleted : /data/monster/Misc/hyaena.xml
+Deleted : /data/monster/Misc/rabbit.xml
+Deleted : /data/monster/Misc/silver rabbit.xml
+Deleted : /data/monster/Misc/skunk.xml
+Deleted : /data/monster/Misc/squirrel.xml
+Deleted : /data/monster/Misc/white deer.xml
+Deleted : /data/monster/Misc/yalahari.xml
+Deleted : /data/monster/Pyro-Elementals/fire overlord.xml
+Deleted : /data/monster/Rats
+Deleted : /data/monster/Reptiles
+Deleted : /data/monster/Rifts
+Deleted : /data/monster/Serpents/deepling scout.xml
+Deleted : /data/monster/Sheeps
+Deleted : /data/monster/Sorcerers/mad mage.xml
+Deleted : /data/monster/Sorcerers/witch.xml
+Deleted : /data/monster/Tortoises
+Deleted : /data/monster/Traps/eye of the seven.xml
+Deleted : /data/monster/Undead Humanoids/souleater.xml
+Deleted : /data/monster/Undead Humanoids/undead mine worker.xml
+Deleted : /source/iomarket.cpp
+Deleted : /source/iomarket.h
+Deleted : /source/mounts.cpp
+Deleted : /source/mounts.h

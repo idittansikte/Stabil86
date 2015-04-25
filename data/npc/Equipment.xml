@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Equipment" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="131" head="78" body="19" legs="82" feet="132" addons="3" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I buy and sell helmets, boots, legs, shields, and armors."/>
+		<parameter key="shop_buyable" value="
+			dark helmet,2490,1000;
+			brass helmet,2460,120;
+			chain helmet,2458,52;
+			helmet of the deep,5461,5000;
+			iron helmet,2459,390;
+			leather helmet,2461,12;
+			party hat,6578,600;
+			soldier helmet,2481,110;
+			steel helmet,2457,580;
+			studded helmet,2482,60;
+			viking helmet,2473,265;
+			
+			leather boots,2643,2;
+			sandals,2642,2;
+			
+			studded armor,2484,90;
+			spirit cloak,8870,1000;
+			scale armor,2483,260;
+			rangers cloak,2660,450;
+			plate armor,2463,1200;
+			magicians robe,8819,450;
+			leather armor,2467,25;
+			jacket,2650,10;
+			green tunic,2652,25;
+			ethno coat,8892,750;
+			doublet,2485,16;
+			coat,2651,8;
+			chain armor,2464,200;
+			cape,2654,9;
+			brass armor,2465,450;
+			belted cape,8872,1300;
+			noble armor,2486,8000;
+			dark armor,2489,1500;
+			
+			ancient shield,2532,5000;
+			brass shield,2511,65;
+			dwarven shield,2525,500;
+			plate shield,2510,125;
+			steel shield,2509,200;
+			studded shield,2526,50;
+			viking shield,2531,260;
+			wooden shield,2512,13;
+			
+			studded legs,2468,60;
+			leather legs,2649,9;
+			chain legs,2648,80;
+			brass legs,2487,195
+		" />
+		<parameter key="shop_sellable" value="
+			spellbook of enlightenment,8900,4000;
+			spellbook of warding,8901,8000;
+			spellbook of mind control,8902,13000;
+			spellbook of lost souls,8903,19000;
+			dragon scale mail,2492,40000;
+			dwarven armor,2503,30000;
+			golden armor,2466,20000;
+			plate armor,2463,400;
+			magic plate armor,2472,350000;
+			knight armor,2476,5000;
+			scale armor,2483,100;
+			noble armor,2486,1000;
+			crown armor,2487,12000;
+			pirate shirt,6095,500;
+			dark armor,2489,500;
+			demon armor,2494,1200000;
+			amazon armor,2500,1500;
+			elven armor,2505,130000;
+			native armor,2508,3000;
+			blue robe,2656,11000;
+			terra mantle,7884,10000;
+			glacier rope,7897,15000;
+			lighting robe,7898,20000;
+			dragon scale legs,2469,1200000;
+			golden legs,2470,100000;
+			knight legs,2477,5000;
+			brass legs,2478,90;
+			crown legs,2488,12000;
+			demon legs,2495,1000000;
+			dwarven legs,2504,3000;
+			elven legs,2507,150000;
+			plate legs,2647,200;
+			mammoth fur shorts,7464,300;
+			terra legs,7885,60000;
+			lighting legs,7895,50000;
+			glacier kilt,7896,55000;
+			bast skirt,3983,8000;
+			blue legs,7730,15000;
+			mastermind shield,2514,120000;
+			guardian shield,2515,2000;
+			dragon shield,2516,5000;
+			beholder shield,2518,1000;
+			crown shield,2519,8000;
+			demon shield,2520,30000;
+			dark shield,2521,500;
+			great shield,2522,300000;
+			blessed shield,2523,400000;
+			ornamented shield,2524,2000;
+			dwarven shield,2525,100;
+			rose shield,2527,80000;
+			tower shield,2528,8000;
+			black shield,2529,1000;
+			viking shield,2531,100;
+			ancient shield,2532,1000;
+			griffin shield,2533,1500;
+			vampire shield,2534,15000;
+			castle shield,2535,35000;
+			medusa shield,2536,9000;
+			amazon shield,2537,4000;
+			eagle shield,2538,300000;
+			phoenix shield,2539,10000;
+			scarab shield,2540,2000;
+			bone shield,2541,160;
+			tempest shield,2542,1000000;
+			tusk shield,3973,1000;
+			sentinel shield,3974,700;
+			salamander shield,3975,600;
+			tortoise shield,6131,200;
+			nightmare shield,6391,120000;
+			steel helmet,2457,300;
+			iron helmet,2459,150;
+			devil helmet,2462,1200;
+			golden helmet,2471,1500000;
+			viking helmet,2473,50;
+			winged helmet,2474,1300000;
+			warrior helmet,2475,5000;
+			strange helmet,2479,500;
+			dark helmet,2490,250;
+			crown helmet,2491,2500;
+			demon helmet,2493,200000;
+			horned helmet,2496,1000000;
+			crusader helmet,2497,6000;
+			royal helmet,2498,30000;
+			amazon helmet,2499,1400;
+			ceremonial mask,2501,1000;
+			dwarven helmet,2502,100000;
+			dragon scale helmet,2506,400000;
+			mystic turban,2663,3000;
+			post officers hat,2665,50000;
+			tribal mask,3967,300;
+			horseman helmet,3969,1000;
+			feather headdress,3970,1500;
+			charmer tiara,3971,13000;
+			beholder helmet,3972,20000;
+			santa hat,6531,2300;
+			skull helmet,5741,50000;
+			pirate hat,6096,1000;
+			krimhorn helmet,7461,250;
+			ragnir helmet,7462,400;
+			fur cap,7458,30000;
+			earmuffs,7459,1000;
+			terra hood,7903,3500;
+			lighting headband,7901,8000;
+			glacier mask,7902,4000;
+			boots of haste,2195,30000;
+			soft boots,6132,400000;
+			boots of waterwalking,2358,1000000;
+			traper boots,2641,3000;
+			sandals,2642,100;
+			steel boots,2645,30000;
+			golden boots,2646,400000;
+			crocodile boots,3982,1000;
+			pirate boots,5462,5000;
+			fur boots,7457,2000;
+			terra boots,7886,5000;
+			magma boots,7891,7000;
+			glacier shoes,7892,3000;
+			lighting boots,7893,7000
+		"/>
+	</parameters>
+</npc>

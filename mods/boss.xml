@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mod name='Boss System' version='1.0' author='Oskar' contact='oskar1121@gmail.com' enabled='yes'>
+<config name='bossSystem_conf'><![CDATA[
+bossSystemConfig = {
+				[4000] = {'x', 2, 'y', 0, 'z', 0,
+						['orshabaal'] = {price = 5, pos = {x=1422,y=1023,z=7}, roomSize = {13,13}},
+						['morgaroth'] = {price = 5, pos = {x=1425,y=1066,z=7}, roomSize = {15,15}},
+						['ghazbaran'] = {price = 5, pos = {x=1424,y=1107,z=7}, roomSize = {15,15}},
+						['apocalypse'] = {price = 5, pos = {x=1425,y=1148,z=7}, roomSize = {15,15}},
+						['ferumbras'] = {price = 5, pos = {x=1426,y=1201,z=7}, roomSize = {15,15}},
+						},
+				
+
+				[4001] = {'x', -2, 'y', 0, 'z', 0,
+						['orshabaal'] = {pos = {x=1321,y=1023,z=7}, roomSize = {13,13}},
+						['morgaroth'] = {pos = {x=1324,y=1062,z=7}, roomSize = {15,15}},
+						['ghazbaran'] = {pos = {x=1323,y=1107,z=7}, roomSize = {15,15}},
+						['apocalypse'] = {pos = {x=1323,y=1156,z=7}, roomSize = {15,15}},
+						['ferumbras'] = {pos = {x=1324,y=1207,z=7}, roomSize = {15,15}},
+						},
+	   }
+
+	   
+teleportsPositions = {
+				{aid = 4001, tpPos = {x=1356,y=1101,z=6}, bossName = 'orshabaal'},
+				{aid = 4001, tpPos = {x=1356,y=1104,z=6}, bossName = 'morgaroth'},
+				{aid = 4001, tpPos = {x=1356,y=1107,z=6}, bossName = 'ghazbaran'},	
+				{aid = 4001, tpPos = {x=1356,y=1110,z=6}, bossName = 'apocalypse'},	
+				{aid = 4001, tpPos = {x=1356,y=1112,z=6}, bossName = 'ferumbras'},		
+			   }
+				
+accesToIgnore = 7
+itemToAcces = 2160 --vip coin
+				
+function doCleanRoom(centerRoomPosition, roomSize)
+if getSpectators(centerRoomPosition, roomSize[1], roomSize[2]) then
+	for _, pid in pairs(getSpectators(centerRoomPosition, roomSize[1], roomSize[2])) do
+		if isMonster(pid) then
+			doRemoveThing(pid)
+		end
+	end
+end
+return true
+end
+
+function checkFreeRoom(cid, roomType)
+if getSpectators(roomType.pos, roomType.roomSize[1], roomType.roomSize[2]) then
+	local player
+	for _, pid in pairs(getSpectators(roomType.pos, roomType.roomSize[1], roomType.roomSize[2])) do
+		if isPlayer(pid) and getPlayerAccess(pid) <= accesToIgnore then
+			player = true
+			break
+		end
+	end
+	if player then
+		return false
+	end
+	doCleanRoom(roomType.pos, roomType.roomSize)
+end
+return true
+end
+
+function isWalkable(pos, creature, proj, pz)
+if getTileThingByPos({x=pos.x,y=pos.y,z=pos.z,stackpos=0}).itemid == 0 then return false end
+if getTopCreature(pos).uid > 0 and creature then return false end
+if getTileInfo(pos).protection and pz then return false, true end
+local n = not proj and 3 or 2
+for i = 0, 255 do
+	pos.stackpos = i
+	local tile = getTileThingByPos(pos)
+		if tile.itemid ~= 0 and not isCreature(tile.uid) then
+			if hasProperty(tile.uid, n) or hasProperty(tile.uid, 7) then
+				return false
+			end
+		end
+end
+return true
+end
+
+specialTiles = {5023, 1987} --teleports ID
+function checkTileFromPos(pos)
+for i = 1, #specialTiles do
+	if getTileItemById(pos, i).uid > 0 then
+		return false 
+	end
+end
+return true
+end
+
+function checkPositions(fromPos, toPos, nb)
+local pos = {x=math.random(math.min(fromPos.x,toPos.x),math.max(fromPos.x,toPos.x)), y=math.random(math.min(fromPos.y,toPos.y),math.max(fromPos.y,toPos.y)), z=math.random(math.min(fromPos.z,toPos.z),math.max(fromPos.z,toPos.z))}
+if isWalkable(pos, true, true, true) and checkTileFromPos(pos) then
+	return pos
+end
+return (nb < 200 and checkPositions(fromPos, toPos, nb+1) or false)
+end
+
+function doCheckMonsterTeleport(name)
+local bossTable
+for _, v in pairs(teleportsPositions) do
+	if v.bossName:lower() == name then
+		bossTable = v
+		break
+	end
+end
+if not bossTable then
+	return true
+end
+local monPos = {x=bossTable.tpPos.x+(bossSystemConfig[bossTable.aid][1] == 'x' and bossSystemConfig[bossTable.aid][2] or 0),y=bossTable.tpPos.y+(bossSystemConfig[bossTable.aid][3] == 'y' and bossSystemConfig[bossTable.aid][4] or 0),z=bossTable.tpPos.z+(bossSystemConfig[bossTable.aid][5] == 'z' and bossSystemConfig[bossTable.aid][6] or 0)}
+local monsterBoss = getTopCreature(monPos).uid
+if isCreature(monsterBoss) and getCreatureName(monsterBoss):lower() == name then
+	doSendMagicEffect(monPos, CONST_ME_TELEPORT)
+	doRemoveThing(monsterBoss)
+	if getTileItemById(bossTable.tpPos, 1387).uid > 0 then
+		doRemoveThing(getTileItemById(bossTable.tpPos, 1387).uid)
+		doSendMagicEffect(bossTable.tpPos, CONST_ME_TELEPORT)
+	end
+end
+return true
+end
+]]></config>
+
+<moveevent type='stepIn' actionid='4000-4001' event='script'><![CDATA[
+domodlib('bossSystem_conf')
+function onStepIn(cid, item, position, lastPosition, fromPosition, toPosition, actor)
+local v = bossSystemConfig[item.actionid]
+if isPlayer(cid) and v then
+	local pos = getThingPos(item.uid)
+	local monster = getTopCreature({x=pos.x+(v[1] == 'x' and v[2] or 0),y=pos.y+(v[3] == 'y' and v[4] or 0),z=pos.z+(v[5] == 'z' and v[6] or 0)}).uid
+	if not isCreature(monster) then
+		return print('ERROR: [Not found monster near teleport].')
+	end
+	local roomType = bossSystemConfig[item.actionid][getCreatureName(monster):lower()]
+	if not roomType then
+		return print('ERROR: [Untypical \'roomType\' value. Probably invalid monster type on position near teleport].')
+	end
+	if roomType.price and not doPlayerRemoveItem(cid, itemToAcces, roomType.price) then
+		doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, 'You do not have enough '..getItemNameById(itemToAcces)..'!')
+		return doTeleportThing(cid, fromPosition, true, true)
+	end
+	local toPos = checkPositions({x=roomType.pos.x-(roomType.roomSize[1]),y=roomType.pos.y-(roomType.roomSize[2]),z=roomType.pos.z}, {x=roomType.pos.x+(roomType.roomSize[1]),y=roomType.pos.y+(roomType.roomSize[2]),z=roomType.pos.z}, 0)
+	if not toPos then
+		print('ERROR: [Untypical \'toPos\' value].')
+		return doTeleportThing(cid, fromPosition, true, true)
+	end
+	if checkFreeRoom(cid, roomType) then
+		local boss = doCreateMonster(getCreatureName(monster), toPos, false)
+		if not roomType.price then
+			registerCreatureEvent(boss, 'bossDeath')
+		end
+	end
+	doTeleportThing(cid, roomType.pos, true, true)
+	return doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, 'FIGHT!')
+end
+return true
+end
+]]></moveevent>
+
+<event type='death' name='bossDeath' event='script'><![CDATA[
+domodlib('bossSystem_conf')
+function onDeath(cid, corpse, deathList)
+return doCheckMonsterTeleport(getCreatureName(cid):lower())
+end
+]]></event>
+
+</mod>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Ice Stone" nameDescription="Ice Stone" race="undead" experience="200000" speed="0">
+   <health now="2500000" max="2500000"/>
+   <look typeex="1354"/>
+   <targetchange interval="5000" chance="8"/>
+   <strategy attack="100" defense="0"/>
+	<flags>
+	  <flag attackable="1"/>
+	  <flag hostile="1"/>
+	  <flag convinceable="1"/>
+	  <flag staticattack="0"/>
+	  <flag targetdistance="1"/>
+	  <flag runonhealth="0"/>
+	</flags>
+	<script>
+        <event name="metinStoneCombat"/>
+		<event name="metinStoneDeath"/>
+    </script>
+	<attacks>
+		<attack name="ice" interval="1064" chance="45" target="1" min="-164" max="-287">
+			<attribute key="shootEffect" value="ice"/>
+		</attack>
+		<attack name="ice" interval="1753" chance="25" target="0" radius="3" min="-365" max="-552">
+			<attribute key="areaEffect" value="icearea"/>
+		</attack>
+	</attacks>
+  <immunities>
+	<immunity paralyze="1"/>
+	<immunity lifedrain="1"/>
+	<immunity ice="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+	<defenses armor="10" defense="30"/>
+</monster>

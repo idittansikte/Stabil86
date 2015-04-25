@@ -1,0 +1,108 @@
+GOD Ace(BOSSEN) reported a bug at 15 February 2013 - 07:49:56.
+dörrar tillhör inte huset [x=985, y=1028, z=7].
+
+----------------------------------------------------------
+Frostwind reported a bug at 16 February 2013 - 17:39:38.
+When i rope my [x=1814, y=1057, z=4].
+
+----------------------------------------------------------
+Wazaap reported a bug at 18 February 2013 - 01:08:40.
+anyone online ? [x=837, y=1448, z=7].
+
+----------------------------------------------------------
+Tyrion reported a bug at 18 February 2013 - 13:35:09.
+look what have you done with server [x=999, y=1000, z=7].
+
+----------------------------------------------------------
+Del Peltor reported a bug at 26 April 2013 - 19:14:33.
+monster attack me at tp room [x=426, y=338, z=5].
+
+----------------------------------------------------------
+Del Peltor reported a bug at 26 April 2013 - 20:21:49.
+gjorde hellspawn task och fick en scroll och jag råkade använda den nu har jag 0:54 stamina hjälp tack [x=553, y=1416, z=7].
+
+----------------------------------------------------------
+Del Peltor reported a bug at 26 April 2013 - 21:31:14.
+serpent spawn not counting monsters killed... [x=955, y=1364, z=7].
+
+----------------------------------------------------------
+Del Peltor Med Stamina reported a bug at 26 April 2013 - 23:45:36.
+stuck [x=1012, y=932, z=10].
+
+----------------------------------------------------------
+Kedda reported a bug at 27 April 2013 - 10:06:25.
+I reported my house at the website, U pretty much solved the problem but now I have no stair :( [x=584, y=1410, z=3].
+
+----------------------------------------------------------
+Hamdija reported a bug at 27 April 2013 - 10:48:42.
+stamina [x=1001, y=1001, z=7].
+
+----------------------------------------------------------
+Fahren Nach Berlin reported a bug at 27 April 2013 - 17:40:43.
+mapfail [x=999, y=914, z=7].
+
+----------------------------------------------------------
+Mage reported a bug at 28 April 2013 - 13:25:28.
+the quest to the Awards for level is missing the teleporter to it. Please fix it because some people can get confused. [x=1255, y=955, z=7].
+
+----------------------------------------------------------
+Mage reported a bug at 30 April 2013 - 18:07:11.
+report [x=1029, y=979, z=4].
+
+----------------------------------------------------------
+Mage reported a bug at 30 April 2013 - 18:09:45.
+I have a task about killing 500 demons but I have killed about 130 demons and when I checked how many I killed at the Tasker it said that I had killed 0 of 500... [x=1001, y=1000, z=7].
+
+----------------------------------------------------------
+Mage reported a bug at 03 May 2013 - 19:24:54.
+cant use the ladder thing in the vip city, the 3 ladders whos all stacked upon eachother. [x=961, y=892, z=7].
+
+----------------------------------------------------------
+Fast Exp reported a bug at 16 May 2013 - 11:27:52.
+donate [x=1010, y=1023, z=7].
+
+----------------------------------------------------------
+Fazndazen reported a bug at 20 May 2013 - 19:19:06.
+param [x=1013, y=999, z=7].
+
+----------------------------------------------------------
+Fazndazen reported a bug at 20 May 2013 - 19:21:15.
+i cant use any spell!!!!!!! [x=391, y=349, z=5].
+
+----------------------------------------------------------
+Mage reported a bug at 21 May 2013 - 15:45:34.
+Come to my house and move the decoration, I cant for some reason.. [x=999, y=988, z=6].
+
+----------------------------------------------------------
+Shagmeister reported a bug at 28 May 2013 - 16:22:33.
+the website its down [x=1050, y=993, z=6].
+
+----------------------------------------------------------
+Stimmer reported a bug at 02 July 2013 - 09:14:49.
+map [x=998, y=997, z=7].
+
+----------------------------------------------------------
+Sir Mikanon reported a bug at 19 July 2013 - 16:46:58.
+well, i accidently sold my house and there is no GM ticket so i'll report this as a bug instead. Please be in touch [x=430, y=448, z=7].
+
+----------------------------------------------------------
+Tairoled Blank reported a bug at 20 July 2013 - 21:49:30.
+website isnt online [x=612, y=1365, z=2].
+
+----------------------------------------------------------
+Fileton reported a bug at 22 July 2013 - 12:34:11.
+website is offline... [x=608, y=1418, z=2].
+
+----------------------------------------------------------
+Fileton reported a bug at 22 July 2013 - 12:36:13.
+website is always offline... [x=602, y=1370, z=2].
+
+----------------------------------------------------------
+King Zepher reported a bug at 30 July 2013 - 00:38:43.
+Tasks give nothing.. [x=622, y=391, z=7].
+
+----------------------------------------------------------
+Ino'x reported a bug at 11 August 2013 - 15:41:07.
+A broken website what's going on? [x=390, y=351, z=5].
+
+----------------------------------------------------------
